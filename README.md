@@ -109,7 +109,7 @@ Todos los autores y participantes de este repositorio deberán adherirse al cód
 
 ## Licencia
 
-La licencia de los contenidos en este repositorio está regida por el archivo LICENSE, pero cada proyecto tendrá su propia licencia y otras restricciones en el repositorio donde se conlleve su desarrollo. Recordemos que este repositorio es solo para llegar a acuerdos. Por consiguiente **TODO LO PUBLICADO EN ESTE REPOSITORIO ESTÁ ATADO A LA LICENCIA DISPONIBLE EN EL ARCHIVO "LICENSE" EN LA RAÍZ DEL REPOSITORIO**, la cual es:
+La licencia de los contenidos en este repositorio está regida por el archivo LICENSE.md, pero cada proyecto tendrá su propia licencia y otras restricciones en el repositorio donde se conlleve su desarrollo. Recordemos que este repositorio es solo para llegar a acuerdos. Por consiguiente **TODO LO PUBLICADO EN ESTE REPOSITORIO ESTÁ ATADO A LA LICENCIA DISPONIBLE EN EL ARCHIVO "LICENSE.md" EN LA RAÍZ DEL REPOSITORIO**, la cual es:
 
 [Creative Commons Attribution 4.0 International](http://creativecommons.org/licenses/by/4.0/).
 
@@ -124,5 +124,5 @@ Los siguientes enlaces sirvieron de inspiración para este proyecto:
 - https://github.com/ethereum/eth2.0-specs/tree/dev/specs
 - https://github.com/nodejs/node
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUwNzk3NDU3NV19
+eyJoaXN0b3J5IjpbLTE3ODcwNDM5NjUsMTUwNzk3NDU3NV19
 -->
