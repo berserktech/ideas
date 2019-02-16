@@ -1,0 +1,25 @@
+# Read more here: https://github.com/jusx/mergeable#configuration
+version: 2
+mergeable:
+  - when: pull_request.*, pull_request_review.*
+    validate:
+      - do: approvals
+        min:
+          count: 2
+      - do: assignee
+        min:  
+          count: 1
+      - do: label
+        no_empty:
+           enabled: true
+           message: 'Asigna el Label relacionado al proyecto'
+      - do: description
+        no_empty:
+           enabled: true
+        must_exclude:
+           regex: 'DO NOT MERGE|WIP'
+      - do: title
+        no_empty:
+           enabled: true
+        must_exclude:
+           regex: 'DO NOT MERGE|WIP'
