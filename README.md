@@ -12,7 +12,7 @@ forma a algo viable. Debido a la forma autorreferencial de este
 repositorio, es necesario desglozar nuestras intenciones en los
 siguientes puntos: 
 
-- [La **motivación** detás de este repositorio.](#motivacion)
+- [La **motivación** detrás de este repositorio.](#motivacion)
 - [La **estructura** de los archivos en este repositorio.](#estructura)
 - [Una explicación breve de las **herramientas de planificación** que usaremos.](#herramientas-de-planificacion)
 - [**Cómo contribuir** a este repositorio.](#como-contribuir)
@@ -93,7 +93,7 @@ docs/
 Explicación:
 
 - `/[categoría]/[nombre-del-proyecto]` Cada proyecto deberá estar
-  dentro de alguna de las carpetas de categoías. Si la categoría no
+  dentro de alguna de las carpetas de categorías. Si la categoría no
   existe, se debe crear. Trataremos de minimizar la totalidad de las
   categorías para evitar redundancia. La carpeta con el nombre del
   proyecto deberá ser llamada en base al nombre del proyecto, donde
@@ -130,11 +130,11 @@ Explicación:
   deberán estar en el sub-directorio `docs/`.
 - `[otras carpetas]/` Las carpetas antes mencionadas puede que no se
   adapten plenamente a todas las propuestas de proyectos que se puedan
-  presentar. Sientanse libre de crear más carpetas en donde agrupar
+  presentar. Siéntanse libre de crear más carpetas en donde agrupar
   contenido. Traten de ser concisos para minimizar la totalidad de
   estas carpetas.
 
-## Herramientas de Planificacion
+## Herramientas de Planificación
 
 En este repositorio, utilizaremos herramientas disponibles en GitHub
 para hacer referencia a las contribuciones que hagamos y manejarlas a
@@ -173,7 +173,7 @@ embargo, **TODOS LOS AUTORES DEBERÁN ADHERIRSE AL CÓDIGO DE CONDUCTA
 PRESENTE EN ESTE REPOSITORIO**.
 
 También queda a la libertad individual de cada participante (interno o
-externo) la posiblidad de crear una copia idéntica de cada proyecto
+externo) la posibilidad de crear una copia idéntica de cada proyecto
 que incluya cualquier cambio al que no se llegue un acuerdo incluir en
 el proyecto original, lo cual es válido siempre y cuando estos cambios
 sean sobre el contenido publicado en este repositorio. Reiteramos, la
@@ -213,3 +213,6 @@ Los siguientes enlaces sirvieron de inspiración para este proyecto:
 - https://github.com/ethereum/eth2.0-pm
 - https://github.com/ethereum/eth2.0-specs/tree/dev/specs
 - https://github.com/nodejs/node
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTk0ODk0NzUxMF19
+-->
