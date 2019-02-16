@@ -9,6 +9,10 @@ mergeable:
       - do: assignee
         min:  
           count: 1
+      - do: label
+        no_empty:
+           enabled: true
+           message: 'Asigna el Label relacionado al proyecto'
       - do: description
         no_empty:
            enabled: true
