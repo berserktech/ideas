@@ -34,12 +34,9 @@ Este repositorio buscará separar las ideas propuestas en directorios a los que 
 - `/investigacion`: Un directorio que contendrá notas sobre estudios. En él podemos documentar nuestro proceso de investigación para lograr otros proyectos, o simplemente como forma de documentar estudios que queramos compartir con otros miembros del equipo (y la
   comunidad extendida).
 - `/proyectos`: Aquí almacenaremos especificaciones y requerimientos de proyectos que querramos elaborar. Estos proyectos incluyen aquellos que dependan directamente de código y aquellos que no. Como ejemplo a proyectos que no dependan de código, podríamos proponer charlas, podcasts y hangouts (pero no se limiten por eso).
-- `/filosofia`: Aquí podemos documentar argumentos filosóficos. La utilidad detrás de estos será poder debatir y quizás lograr coincidir en nuestras ideas. Ejercitar nuestras creencias y puntos de vistas nos parece crucial para mantener la cohesión en el equipo
-  y proyectar nuestra misión, visión y valores como individuos (y
-  consecuentemente como equipo).
+- `/filosofia`: Aquí podemos documentar argumentos filosóficos. La utilidad detrás de estos será poder debatir y quizás lograr coincidir en nuestras ideas. Ejercitar nuestras creencias y puntos de vistas nos parece crucial para mantener la cohesión en el equipo y proyectar nuestra misión, visión y valores como individuos (y consecuentemente como equipo).
 
-Cada carpeta de un proyecto, deberá cumplir con la siguiente
-estructura:
+Cada carpeta de un proyecto, deberá cumplir con la siguiente estructura:
 
 ```
 /[categoría]/[nombre-del-proyecto]
@@ -53,15 +50,8 @@ docs/
 
 Explicación:
 
-- `/[categoría]/[nombre-del-proyecto]` Cada proyecto deberá estar
-  dentro de alguna de las carpetas de categorías. Si la categoría no
-  existe, se debe crear. Trataremos de minimizar la totalidad de las
-  categorías para evitar redundancia. La carpeta con el nombre del
-  proyecto deberá ser llamada en base al nombre del proyecto, donde
-  cada palabra deberá estar unida a la siguiente usando el caracter
-  `-`.
-- `README.md` Cada proyecto deberá tener un archivo README escrito en
-  Markdown que por lo menos describa al proyecto y además explique su
+- `/[categoría]/[nombre-del-proyecto]` Cada proyecto deberá estar dentro de alguna de las carpetas de categorías. Si la categoría no existe, se debe crear. Trataremos de minimizar la totalidad de las categorías para evitar redundancia. La carpeta con el nombre del proyecto deberá ser llamada en base al nombre del proyecto, donde cada palabra deberá estar unida a la siguiente usando el caracter `-`.
+- `README.md` Cada proyecto deberá tener un archivo README escrito enMarkdown que por lo menos describa al proyecto y además explique su
   justificación y su estructura.
 - `CHANGELOG.md` Este archivo documentará cambios hechos a lo largo
   del tiempo a cada idea. El primer Pull Request que se haga deberá
@@ -175,5 +165,5 @@ Los siguientes enlaces sirvieron de inspiración para este proyecto:
 - https://github.com/ethereum/eth2.0-specs/tree/dev/specs
 - https://github.com/nodejs/node
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MTIzMzU3OF19
+eyJoaXN0b3J5IjpbLTE5NTM4MDM0NTRdfQ==
 -->
