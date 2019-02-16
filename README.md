@@ -29,11 +29,11 @@ En este mismo repositorio también se definirá el alcance de nuestra comunidad,
 
 ## Estructura
 
-Este repositorio buscará separar las ideas propuestas en directorios a los que llamaremos "categorías", cuyos nombres permitan la fácil identificación del tipo de contenido. Dentro de cada una de estas carpetas deberá haber por lo menos una carpeta por cada propuesta. A continuación algunos ejemplos de categorías:
+Aquí separaremos las ideas propuestas en directorios a los que llamaremos "categorías", cuyos nombres permitirán la fácil identificación del tipo de contenido. Dentro de cada una de estas carpetas deberá haber por lo menos una carpeta por cada propuesta. A continuación algunos ejemplos de categorías:
 
 - `/investigacion`: Un directorio que contendrá notas sobre estudios. En él podemos documentar nuestro proceso de investigación para lograr otros proyectos, o simplemente como forma de documentar estudios que queramos compartir con otros miembros del equipo (y la
   comunidad extendida).
-- `/proyectos`: Aquí almacenaremos especificaciones y requerimientos de proyectos que querramos elaborar. Estos proyectos incluyen aquellos que dependan directamente de código y aquellos que no. Como ejemplo a proyectos que no dependan de código, podríamos proponer charlas, podcasts y hangouts (pero no se limiten por eso).
+- `/proyectos`: Aquí almacenaremos especificaciones y requerimientos de proyectos que queramos elaborar. Estos proyectos incluyen aquellos que dependan directamente de código y aquellos que no. Como ejemplo a proyectos que no dependan de código, podríamos proponer charlas, podcasts y hangouts (pero no se limiten por eso).
 - `/filosofia`: Aquí podemos documentar argumentos filosóficos. La utilidad detrás de estos será poder debatir y quizás lograr coincidir en nuestras ideas. Ejercitar nuestras creencias y puntos de vistas nos parece crucial para mantener la cohesión en el equipo y proyectar nuestra misión, visión y valores como individuos (y consecuentemente como equipo).
 
 Cada carpeta de un proyecto, deberá cumplir con la siguiente estructura:
@@ -113,5 +113,5 @@ Los siguientes enlaces sirvieron de inspiración para este proyecto:
 - https://github.com/ethereum/eth2.0-specs/tree/dev/specs
 - https://github.com/nodejs/node
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU5NjI3MTE0M119
+eyJoaXN0b3J5IjpbMTkxNzM0ODVdfQ==
 -->
