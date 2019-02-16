@@ -1,3 +1,4 @@
 ﻿# 0.0.0
-* First properly made README.md
-* First CHANGELOG.md
+* A properly made README.md
+* A CHANGELOG.md
+* A CODE_OF_CONDUCT.md
