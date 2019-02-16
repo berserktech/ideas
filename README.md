@@ -35,7 +35,7 @@ Aquí separaremos las ideas propuestas en directorios a los que llamaremos "cate
   comunidad extendida).
 - `/proyectos`: Aquí almacenaremos especificaciones y requerimientos de proyectos que queramos elaborar. Estos proyectos incluyen aquellos que dependan y que no dependan directamente de código, como por ejemplo: charlas, podcasts y hangouts (pero no se limiten por eso).
 - `/filosofia`: Aquí podemos documentar argumentos filosóficos. La utilidad detrás de estos será poder debatir y quizás lograr coincidir en nuestras ideas. Ejercitar nuestras creencias y puntos de vistas nos parece crucial para mantener la cohesión en el equipo y proyectar nuestra misión, visión y valores como individuos (y consecuentemente como equipo). Sin embargo, aquí no definiremos el alcance de nuestra comunidad, para eso estará la siguiente categoría:
-- `/meta`: Aquí profundizaremos em
+- `/meta`: Aquí profundizaremos en las fundaciones de **BerserkTech**, incluyendo nuestro _Manifesto_, nuestro _Código de Conducta_ como comunidad, nuestro proceso de selección de participantes y otros temas.
 
 Cada carpeta de un proyecto, deberá cumplir con la siguiente estructura:
 
@@ -46,7 +46,7 @@ CHANGELOG.md
 AUTHORS
 code/
 docs/
-[otras carpetas]/
+[otras carpetas y/o archivos]
 ```
 
 Explicación:
@@ -61,7 +61,7 @@ Explicación:
 - `AUTHORS` Este archivo contendrá el nombre completo y el correo de las personas que se responsabilizarán por el desarrollo de este proyecto. A estas personas les pertenecerá el contenido del proyecto, y dependerá de estas personas el alcance y la licencia del mismo. **La licencia de los contenidos en este repositorio está regida por el archivo LICENSE**, pero **cada proyecto tendrá su propia licencia y otras restricciones en el repositorio donde se conlleve su desarrollo**. Recordemos que este repositorio es solo para llegar a acuerdos. Para más información, ver la sección de [Licencia](#licencia).
 - `code/` En el caso de que un proyecto incluya código fuente, este código deberá ir en la carpeta `code/`. **Estos proyectos no están pensados para contener repositorios completos**, el código que exista aquí deberá ser código de referencia, que pueda ser usado como punto de partida o ideas para cuando se elabore el proyecto final.
 - `docs/` En el caso de que un proyecto contenga archivos de texto con formato, estos deberán estar escritos en Markdown o en Latex, y deberán estar en el sub-directorio `docs/`.
-- `[otras carpetas]/` Las carpetas antes mencionadas puede que no se adapten plenamente a todas las propuestas de proyectos que se puedan presentar. Siéntanse libre de crear más carpetas en donde agrupar contenido. Traten de ser concisos para minimizar la totalidad de estas carpetas.
+- `[otras carpetas y/o archivos]` Las carpetas antes mencionadas puede que no se adapten plenamente a todas las propuestas de proyectos que se puedan presentar. Siéntanse libre de crear más carpetas en donde agrupar contenido. Traten de ser concisos para minimizar la totalidad de estas carpetas.
 
 ## Herramientas de Planificación
 
@@ -114,5 +114,5 @@ Los siguientes enlaces sirvieron de inspiración para este proyecto:
 - https://github.com/ethereum/eth2.0-specs/tree/dev/specs
 - https://github.com/nodejs/node
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg3MTA3NDY0N119
+eyJoaXN0b3J5IjpbLTk1ODMzMzM0MF19
 -->
