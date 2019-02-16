@@ -99,7 +99,7 @@ En este repositorio buscaremos usar otras herramientas disponibles para proyecto
 
 Se puede contribuir tanto mediante la web oficial de GitHub como mediante del terminal, haciendo una copia del repositorio y subiendo cambios (en caso de tener acceso).
 
-Las conversaciones se mantendrán en los _issues_ asociados a cada proyecto, y las sugerencias al contenid
+Las conversaciones se mantendrán en los _issues_ asociados a cada proyecto, y las sugerencias al contenido propuesto irá como parte de los Pull Requests relacionados a cada proyecto. En caso de sugerir un cambio que esté relacionado a un _issue_ existente, se deberá hacer referencia al issue usando el formato `#[número del issue]`, el cual también es válido para hacer referencia a otros pull requests (los issues y los pull requests comparten el mismo incrementador numérico)
 
 ## Código de conducta
 
@@ -122,5 +122,5 @@ Los siguientes enlaces sirvieron de inspiración para este proyecto:
 - https://github.com/ethereum/eth2.0-specs/tree/dev/specs
 - https://github.com/nodejs/node
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzg1NzExNDcxXX0=
+eyJoaXN0b3J5IjpbLTU4ODM4NDE0M119
 -->
