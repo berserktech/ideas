@@ -77,7 +77,7 @@ De la siguiente forma:
 
 Antes de hacer algún Pull Request, crearemos un issue sobre el mismo, donde estaremos abiertos a los comentarios generales sobre la idea que tenemos. La idea es mantener el Pull Request limpio de conversaciones, cosa de poder hacer inspecciones del código sin tener que esquivar comentarios irrelevantes o indirectos al contenido presente.
 
-Por cada categoría, crearemos un _tag_ con el nombre de la categoría (y nada más). Por cada proyecto, crearemos un _tag_ con el nombre de la categoría más el nombre del proyecto, como `[categoría]|. De esta forma podemos separar distintas inquietudes sobre un mismo proyecto en varios issues, no solo al momento de crear un proyecto, sino en el futuro, cuando vayamos a hacer revisiones al mismo.
+Por cada categoría, crearemos un _tag_ con el nombre de la categoría (y nada más). Por cada proyecto, crearemos un _tag_ con el nombre de la categoría más el nombre del proyecto, como `[categoría]|proyecto`. De esta forma podemos separar distintas inquietudes sobre un mismo proyecto en varios issues, no solo al momento de crear un proyecto, sino en el futuro, cuando vayamos a hacer revisiones al mismo.
 
 Por cada PR (Pull Request), se deberá hacer referencia a al menos un _issue_ existente. De esta forma, GitHub enlazará los contenidos y podremos mantener una historia lineal del progreso de cada proyecto.
 
@@ -114,5 +114,5 @@ Los siguientes enlaces sirvieron de inspiración para este proyecto:
 - https://github.com/ethereum/eth2.0-specs/tree/dev/specs
 - https://github.com/nodejs/node
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MjE4MTYxOTddfQ==
+eyJoaXN0b3J5IjpbLTIwMzUzMDkxODhdfQ==
 -->
