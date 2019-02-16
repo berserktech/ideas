@@ -89,7 +89,7 @@ También queda a la libertad individual de cada participante (interno o externo)
 
 Está permitido crear otras issues para poder identificar o especificar la naturaleza de cualquier Issue y Pull Request que no esté estrictamente relacionado a un proyecto específico, o bien que facilite la categorización de proyectos o propuestas de proyectos fuera de lo descrito en este archivo.
 
-**Sobre el idioma:** Estará permitido crear issues donden Inglés y en Español.
+**Sobre el idioma:** Estará permitido crear issues donde tanto el título como la descripción y los comentarios estén en Inglés y en Español.
 
 ### Pull Requests
 
@@ -99,7 +99,7 @@ El nombre de la rama (branch name) de cada pull request deberá estar asociado a
 - El primer Pull Request de cada proyecto deberá estar dentro del branch: `[categoría]/[proyecto]`.
 - Subsiguientes Pull Requests deberán seguir el formato: `[categoría]/[proyecto]/[número de issue]`.
 
-**Sobre el idioma:** Estará permitido crear issues en Inglés y en Español.
+**Sobre el idioma:** Estará permitido crear Pull Requests donde tanto el título como la descripción y los comentarios estén en Inglés y en Español. Sin embargo, los archivos dentro del pull request deberán estar primariamente en Español, a menos de que se traten de traducciones de contenido ya disponible en español, o se trate de código que tenga comentarios en inglés.
 
 ### Otras Herramientas de GitHub
 
@@ -134,6 +134,6 @@ Los siguientes enlaces sirvieron de inspiración para este proyecto:
 - https://github.com/ethereum/eth2.0-specs/tree/dev/specs
 - https://github.com/nodejs/node
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ2MTMzOTQ1MSwtMTIxOTYzNzI1OCwtMT
-c4NzA0Mzk2NSwxNTA3OTc0NTc1XX0=
+eyJoaXN0b3J5IjpbNzg0NDQ0OTA1LC0xMjE5NjM3MjU4LC0xNz
+g3MDQzOTY1LDE1MDc5NzQ1NzVdfQ==
 -->
