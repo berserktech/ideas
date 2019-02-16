@@ -93,6 +93,8 @@ Está permitido crear otras issues para poder identificar o especificar la natur
 
 Los Pull Request deberán contener los archivos de estructura de una nueva propuesta, o cambios a los archivos de alguna de las propuestas ya existentes. En caso de ser un Pull Request de un proyecto nuevo, se deberá seguir la estructura definida en la sección [Estructura](#estructura). Cada Pull Request deberá ser aprobado por la totalidad de los autores definidos en el archivo `AUTHORS` asociado al proyecto. Cualquier otra persona está bienvenida a comentar en los Pull Requests abiertos, sin embargo, quedará a discreción de los autores aceptar o descalificar la sugerencia.
 
+El nombre de la rama (branch name) de cada pull request deberá
+
 ### Otras Herramientas de GitHub
 
 En este repositorio buscaremos usar otras herramientas disponibles para proyectos específicos. Ya sean Milestones o Proyectos (o herramientas futuras dentro de esta plataforma), deberá delimitarse claramente como asociada a un proyecto específico.
@@ -126,6 +128,6 @@ Los siguientes enlaces sirvieron de inspiración para este proyecto:
 - https://github.com/ethereum/eth2.0-specs/tree/dev/specs
 - https://github.com/nodejs/node
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMTk2MzcyNTgsLTE3ODcwNDM5NjUsMT
-UwNzk3NDU3NV19
+eyJoaXN0b3J5IjpbLTE5OTUwODQ2OTYsLTEyMTk2MzcyNTgsLT
+E3ODcwNDM5NjUsMTUwNzk3NDU3NV19
 -->
