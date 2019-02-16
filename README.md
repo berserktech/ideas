@@ -51,9 +51,9 @@ docs/
 
 Explicación:
 
-- `/[categoría]/[nombre-del-proyecto]` Cada proyecto deberá estar dentro de alguna de las carpetas de categorías. Si la categoría no existe, se debe crear. Trataremos de minimizar la totalidad de las categorías para evitar redundancia. La carpeta con el nombre del proyecto deberá ser llamada en base al nombre del proyecto, donde cada palabra deberá estar unida a la siguiente usando el caracter `-`.
+- `/[categoría]/[nombre-del-proyecto]` Cada proyecto deberá estar dentro de alguna de las carpetas de categorías. Si la categoría no existe, se debe crear. Trataremos de minimizar la totalidad de las categorías para evitar redundancia. La carpeta de cada idea deberá ser llamada en base al nombre del proyecto, donde cada palabra deberá estar unida a la siguiente usando el símbolo `-`.
 - `README.md` Cada proyecto deberá tener un archivo README escrito en Markdown que por lo menos describa al proyecto y además explique su justificación y su estructura.
-- `CHANGELOG.md` Este archivo documentará cambios hechos a lo largo del tiempo a cada idea. El primer Pull Request que se haga deberá incluir este archivo con una sola entrada:
+- `CHANGELOG.md` Este archivo documentará cambios hechos a lo largo del tiempo a cada idea. Cada Pull Request deberá incluir al menos un cambio en el archivo CHANGELOG.md correspondiente a la idea. El primer Pull Request que se haga deberá incluir este archivo con una sola entrada:
 ```
 # 0.0.0
 * Idea [categoría]/[nombre-del-proyecto] creada.
@@ -114,5 +114,5 @@ Los siguientes enlaces sirvieron de inspiración para este proyecto:
 - https://github.com/ethereum/eth2.0-specs/tree/dev/specs
 - https://github.com/nodejs/node
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk1ODMzMzM0MF19
+eyJoaXN0b3J5IjpbLTIyNjY2Mjk5MF19
 -->
