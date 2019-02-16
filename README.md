@@ -16,58 +16,25 @@ Bienvenidos a nuestra central de creatividad. Aquí documentaremos todo tipo de 
 
 ## Motivación
 
-**BerserkTech** es una comunidad limitada, compuesta de personas
-capacitadas en conocimientos técnicos y relacionados, con la simple
-finalidad de lograr cohesión entre la presencia en internet y las
-ideas de los miembros. Buscamos, con un mínimo de esfuerzo durante
-nuestro tiempo libre, contribuir con actividades que nos parezcan
-entretenidas o interesantes, y que por sí mismas sirvan de publicidad
-para todos y cada uno de nosotros.
+**BerserkTech** es una comunidad limitada, compuesta de personas capacitadas en conocimientos técnicos y relacionados, con la simple finalidad de lograr cohesión entre la presencia en internet y las ideas de los miembros. Buscamos, con un mínimo de esfuerzo durante nuestro tiempo libre, contribuir con actividades que nos parezcan entretenidas o interesantes, y que por sí mismas sirvan de publicidad para todos y cada uno de nosotros.
 
-_Para leer más sobre nosotros, pueden revisar nuestro
-[Manifesto](https://medium.com/berserktech/manifesto-b9eda0fda1a7)._
+_Para leer más sobre nosotros, pueden revisar nuestro [Manifesto](https://medium.com/berserktech/manifesto-b9eda0fda1a7)._
 
-Este repositorio surge como respuesta a la necesidad de documentar y
-establecer orden en la colaboración sobre las ideas que tengamos.
-**Contribuir en este repositorio no es requerido**. Miembros de esta
-comunidad pueden hacer contribuciones diréctamente a los repositorios
+Este repositorio surge como respuesta a la necesidad de documentar y establecer orden en la colaboración sobre las ideas que tengamos. **Contribuir en este repositorio no es requerido**. Miembros de esta comunidad pueden hacer contribuciones diréctamente a los repositorios
 existentes, o crear nuevos repositorios a voluntad.
 
-Participar en este repositorio es sugerido para maximizar la claridad
-de las ideas que queremos elaborar dentro de la comunidad. Otros
-medios de comunicación suelen ser impermanentes y no garantizan
-claridad a la hora de proponer cambios, o bien de estar al tanto de
-que los desacuerdos han sido resueltos. Aquí podemos aportar ideas
-durante la elaboración de una propuesta, y refinar la propuesta a
-través del tiempo.
+Participar en este repositorio es sugerido para maximizar la claridad de las ideas que queremos elaborar dentro de la comunidad. Otros medios de comunicación suelen ser impermanentes y no garantizan claridad a la hora de proponer cambios, o bien de estar al tanto de que los desacuerdos han sido resueltos. Aquí podemos aportar ideas durante la elaboración de una propuesta, y refinar la propuesta a través del tiempo.
 
-**Cualquier persona viendo esto está invitada a participar en
-cualquiera de las discusiones aquí presentes**, sin embargo, **no
-garantizamos atender a todas las sugerencias**, nuestra prioridad son
-los miembros del equipo.
+**Cualquier persona viendo esto está invitada a participar en cualquiera de las discusiones aquí presentes**, sin embargo, **no garantizamos atender a todas las sugerencias**, nuestra prioridad son los miembros del equipo.
 
 ## Estructura
 
-Este repositorio buscará separar las ideas propuestas en directorios a
-los que llamaremos "categorías", cuyos nombres permitan la fácil
-identificación del tipo de contenido. Dentro de cada una de estas
-carpetas deberá haber por lo menos una carpeta por cada propuesta. A
-continuación algunos ejemplos de categorías:
+Este repositorio buscará separar las ideas propuestas en directorios a los que llamaremos "categorías", cuyos nombres permitan la fácil identificación del tipo de contenido. Dentro de cada una de estas carpetas deberá haber por lo menos una carpeta por cada propuesta. A continuación algunos ejemplos de categorías:
 
-- `/investigacion`: Un directorio que contendrá notas sobre estudios.
-  En él podemos documentar nuestro proceso de investigación para
-  lograr otros proyectos, o simplemente como forma de documentar
-  estudios que queramos compartir con otros miembros del equipo (y la
+- `/investigacion`: Un directorio que contendrá notas sobre estudios. En él podemos documentar nuestro proceso de investigación para lograr otros proyectos, o simplemente como forma de documentar estudios que queramos compartir con otros miembros del equipo (y la
   comunidad extendida).
-- `/proyectos`: Aquí almacenaremos especificaciones y requerimientos
-  de proyectos que querramos elaborar. Estos proyectos incluyen
-  aquellos que dependan directamente de código y aquellos que no. Como
-  ejemplo a proyectos que no dependan de código, podríamos proponer
-  charlas, podcasts y hangouts (pero no se limiten por eso).
-- `/filosofia`: Aquí podemos documentar argumentos filosóficos. La
-  utilidad detrás de estos será poder debatir y quizás lograr
-  coincidir en nuestras ideas. Ejercitar nuestras creencias y puntos
-  de vistas nos parece crucial para mantener la cohesión en el equipo
+- `/proyectos`: Aquí almacenaremos especificaciones y requerimientos de proyectos que querramos elaborar. Estos proyectos incluyen aquellos que dependan directamente de código y aquellos que no. Como ejemplo a proyectos que no dependan de código, podríamos proponer charlas, podcasts y hangouts (pero no se limiten por eso).
+- `/filosofia`: Aquí podemos documentar argumentos filosóficos. La utilidad detrás de estos será poder debatir y quizás lograr coincidir en nuestras ideas. Ejercitar nuestras creencias y puntos de vistas nos parece crucial para mantener la cohesión en el equipo
   y proyectar nuestra misión, visión y valores como individuos (y
   consecuentemente como equipo).
 
@@ -208,5 +175,5 @@ Los siguientes enlaces sirvieron de inspiración para este proyecto:
 - https://github.com/ethereum/eth2.0-specs/tree/dev/specs
 - https://github.com/nodejs/node
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMDc5MzYxOThdfQ==
+eyJoaXN0b3J5IjpbLTE2MTIzMzU3OF19
 -->
