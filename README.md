@@ -111,7 +111,7 @@ Todos los autores y participantes de este repositorio deberán adherirse al cód
 
 La licencia de los contenidos en este repositorio está regida por el archivo LICENSE, pero cada proyecto tendrá su propia licencia y otras restricciones en el repositorio donde se conlleve su desarrollo. Recordemos que este repositorio es solo para llegar a acuerdos. Por consiguiente **TODO LO PUBLICADO EN ESTE REPOSITORIO ESTÁ ATADO A LA LICENCIA DISPONIBLE EN EL ARCHIVO "LICENSE" EN LA RAÍZ DEL REPOSITORIO**, la cual es:
 
-Creative Commons [Attribution 4.0 International](http://creativecommons.org/licenses/by/4.0/).
+[Creative Commons Attribution 4.0 International](http://creativecommons.org/licenses/by/4.0/).
 
 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a>
 
@@ -124,5 +124,5 @@ Los siguientes enlaces sirvieron de inspiración para este proyecto:
 - https://github.com/ethereum/eth2.0-specs/tree/dev/specs
 - https://github.com/nodejs/node
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODAwMDc5NjM1XX0=
+eyJoaXN0b3J5IjpbMTUwNzk3NDU3NV19
 -->
