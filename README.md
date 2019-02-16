@@ -85,7 +85,7 @@ Será perfectamente válido incluir números de issues tanto en cualquier títul
 
 **QUEDA A DISCRECIÓN DE LOS AUTORES DE CADA PROYECTO LA INCLUSIÓN DE SOLICITUDES, AÑADIR AUTORES O LA RESOLUCIÓN DE CONFLICTOS.** Sin embargo, **TODOS LOS AUTORES DEBERÁN ADHERIRSE AL CÓDIGO DE CONDUCTA PRESENTE EN ESTE REPOSITORIO**.
 
-También queda a la libertad individual de cada participante (interno o externo) la posibilidad de crear una copia idéntica de cada proyecto que incluya cualquier cambio al que no se llegue un acuerdo incluir en el proyecto original, lo cual es válido siempre y cuando estos cambios sean sobre el contenido publicado en este repositorio. Reiteramos, la ubicación y las condiciones de otros repositorios que surjan como producto de lo publicado en este NO sostendrá las limitaciones o garantías existentes en este repositorio.
+También queda a la libertad individual de cada participante (interno o externo) la posibilidad de crear una copia idéntica de cada proyecto en caso de que no se llegue un acuerdo determinado en el proyecto original, lo cual es válido siempre y cuando estos cambios sean sobre el contenido publicado en este repositorio. Reiteramos, la ubicación y las condiciones de otros repositorios que surjan como producto de lo publicado en este NO sostendrá las limitaciones o garantías existentes en este repositorio.
 
 ### Milestones
 
@@ -114,5 +114,5 @@ Los siguientes enlaces sirvieron de inspiración para este proyecto:
 - https://github.com/ethereum/eth2.0-specs/tree/dev/specs
 - https://github.com/nodejs/node
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NTk5NDYzODVdfQ==
+eyJoaXN0b3J5IjpbMjEzOTExNTM5NF19
 -->
