@@ -73,11 +73,13 @@ En este repositorio, utilizaremos herramientas disponibles en GitHub para hacer 
 
 De la siguiente forma:
 
+### Tags
+
+Por cada categoría, crearemos un _tag_ con el nombre de la categoría (y nada más). Por cada proyecto, crearemos un _tag_ con el nombre de la categoría más el nombre del proyecto, como `[categoría]/proyecto`. De esta forma podemos separar distintas inquietudes sobre un mismo proyecto en varios issues, no solo al momento de crear un proyecto, sino en el futuro, cuando vayamos a hacer revisiones al mismo.
+
 ### Issues
 
 Cada Issue deberá ser resuelto eventualmente por un Pull Request. Antes de hacer algún Pull Request, crearemos un issue sobre el mismo, donde estaremos abiertos a los comentarios generales sobre la idea que tenemos. La idea es mantener el Pull Request limpio de conversaciones, cosa de poder hacer inspecciones del código sin tener que esquivar comentarios irrelevantes o indirectos al contenido presente.
-
-Por cada categoría, crearemos un _tag_ con el nombre de la categoría (y nada más). Por cada proyecto, crearemos un _tag_ con el nombre de la categoría más el nombre del proyecto, como `[categoría]/proyecto`. De esta forma podemos separar distintas inquietudes sobre un mismo proyecto en varios issues, no solo al momento de crear un proyecto, sino en el futuro, cuando vayamos a hacer revisiones al mismo.
 
 Por cada PR (Pull Request), se deberá hacer referencia a al menos un _issue_ existente. De esta forma, GitHub enlazará los contenidos y podremos mantener una historia lineal del progreso de cada proyecto.
 
@@ -99,7 +101,7 @@ El nombre de la rama (branch name) de cada pull request deberá estar asociado a
 - El primer Pull Request de cada proyecto deberá estar dentro del branch: `[categoría]/[proyecto]`.
 - Subsiguientes Pull Requests deberán seguir el formato: `[categoría]/[proyecto]/[número de issue]`.
 
-**Sobre el idioma:** Estará permitido crear Pull Requests donde tanto el título como la descripción y los comentarios estén en Inglés y en Español. Sin embargo, los archivos dentro del pull request deberán estar primariamente en Español, a menos de que se traten de traducciones de contenido ya disponible en español, o se trate de código que tenga comentarios en inglés.
+**Sobre el idioma:** Estará permitido crear Pull Requests donde tanto el título como la descripción y los comentarios estén en Inglés y en Español. Sin embargo, los archivos dentro del pull request deberán estar primariamente en Español, a menos de que se traten de traducciones de contenido ya disponible en español, o se trate de comentarios dentro de código (los cuales se prefieren en Inglés, pero se acepta cualquier idioma que sea entendido por las personas que aparezcan en `AUTHORS`).
 
 ### Otras Herramientas de GitHub
 
@@ -134,6 +136,6 @@ Los siguientes enlaces sirvieron de inspiración para este proyecto:
 - https://github.com/ethereum/eth2.0-specs/tree/dev/specs
 - https://github.com/nodejs/node
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzg0NDQ0OTA1LC0xMjE5NjM3MjU4LC0xNz
+eyJoaXN0b3J5IjpbNDQ2NDgxMDYxLC0xMjE5NjM3MjU4LC0xNz
 g3MDQzOTY1LDE1MDc5NzQ1NzVdfQ==
 -->
