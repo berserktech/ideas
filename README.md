@@ -67,6 +67,7 @@ Explicación:
 
 En este repositorio, utilizaremos herramientas disponibles en GitHub para hacer referencia a las contribuciones que hagamos y manejarlas a través del tiempo. Usaremos principalmente:
 
+- Tags.
 - Issues.
 - Pull Requests.
 - Otras herramientas de GitHub.
@@ -76,6 +77,10 @@ De la siguiente forma:
 ### Tags
 
 Por cada categoría, crearemos un _tag_ con el nombre de la categoría (y nada más). Por cada proyecto, crearemos un _tag_ con el nombre de la categoría más el nombre del proyecto, como `[categoría]/proyecto`. De esta forma podemos separar distintas inquietudes sobre un mismo proyecto en varios issues, no solo al momento de crear un proyecto, sino en el futuro, cuando vayamos a hacer revisiones al mismo.
+
+Está permitido crear otros _tags_ para poder identificar o especificar la naturaleza de cualquier Issue y Pull Request que no esté estrictamente relacionado a un proyecto específico, o bien que facilite la categorización de proyectos o propuestas de proyectos fuera de lo descrito en este archivo.
+
+**Sobre el idioma:** Estará permitido crear _tags_ tanto en Inglés como en Español.
 
 ### Issues
 
@@ -88,8 +93,6 @@ Será perfectamente válido incluir números de issues tanto en cualquier títul
 **QUEDA A DISCRECIÓN DE LOS AUTORES DE CADA PROYECTO LA INCLUSIÓN DE SOLICITUDES, AÑADIR AUTORES O LA RESOLUCIÓN DE CONFLICTOS.** Sin embargo, **TODOS LOS AUTORES DEBERÁN ADHERIRSE AL CÓDIGO DE CONDUCTA PRESENTE EN ESTE REPOSITORIO**.
 
 También queda a la libertad individual de cada participante (interno o externo) la posibilidad de crear una copia idéntica de cada proyecto en caso de que no se llegue un acuerdo determinado en el proyecto original, lo cual es válido siempre y cuando estos cambios sean sobre el contenido publicado en este repositorio. Reiteramos, la ubicación y las condiciones de otros repositorios que surjan como producto de lo publicado en este NO sostendrá las limitaciones o garantías existentes en este repositorio. La única excepción a esta regla son los proyectos en la categoría **meta**. Copias a estos proyectos deberán hacerse en otros repositorios, para evitar conflictos fundamentales aquí.
-
-Está permitido crear otras issues para poder identificar o especificar la naturaleza de cualquier Issue y Pull Request que no esté estrictamente relacionado a un proyecto específico, o bien que facilite la categorización de proyectos o propuestas de proyectos fuera de lo descrito en este archivo.
 
 **Sobre el idioma:** Estará permitido crear issues donde tanto el título como la descripción y los comentarios estén en Inglés y en Español.
 
@@ -136,6 +139,6 @@ Los siguientes enlaces sirvieron de inspiración para este proyecto:
 - https://github.com/ethereum/eth2.0-specs/tree/dev/specs
 - https://github.com/nodejs/node
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDQ2NDgxMDYxLC0xMjE5NjM3MjU4LC0xNz
+eyJoaXN0b3J5IjpbNzg4MTkzNzE5LC0xMjE5NjM3MjU4LC0xNz
 g3MDQzOTY1LDE1MDc5NzQ1NzVdfQ==
 -->
