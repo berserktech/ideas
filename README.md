@@ -33,8 +33,9 @@ Aquí separaremos las ideas propuestas en directorios a los que llamaremos "cate
 
 - `/investigacion`: Un directorio que contendrá notas sobre estudios. En él podemos documentar nuestro proceso de investigación para lograr otros proyectos, o simplemente como forma de documentar estudios que queramos compartir con otros miembros del equipo (y la
   comunidad extendida).
-- `/proyectos`: Aquí almacenaremos especificaciones y requerimientos de proyectos que queramos elaborar. Estos proyectos incluyen aquellos que dependan directamente de código y aquellos que no. Como ejemplo a proyectos que no dependan de código, podríamos proponer charlas, podcasts y hangouts (pero no se limiten por eso).
-- `/filosofia`: Aquí podemos documentar argumentos filosóficos. La utilidad detrás de estos será poder debatir y quizás lograr coincidir en nuestras ideas. Ejercitar nuestras creencias y puntos de vistas nos parece crucial para mantener la cohesión en el equipo y proyectar nuestra misión, visión y valores como individuos (y consecuentemente como equipo).
+- `/proyectos`: Aquí almacenaremos especificaciones y requerimientos de proyectos que queramos elaborar. Estos proyectos incluyen aquellos que dependan y que no dependan directamente de código, como por ejemplo: charlas, podcasts y hangouts (pero no se limiten por eso).
+- `/filosofia`: Aquí podemos documentar argumentos filosóficos. La utilidad detrás de estos será poder debatir y quizás lograr coincidir en nuestras ideas. Ejercitar nuestras creencias y puntos de vistas nos parece crucial para mantener la cohesión en el equipo y proyectar nuestra misión, visión y valores como individuos (y consecuentemente como equipo). Sin embargo, aquí no definiremos el alcance de nuestra comunidad, para eso estará la siguiente categoría:
+- `/meta`: Aquí profundizaremos em
 
 Cada carpeta de un proyecto, deberá cumplir con la siguiente estructura:
 
@@ -113,5 +114,5 @@ Los siguientes enlaces sirvieron de inspiración para este proyecto:
 - https://github.com/ethereum/eth2.0-specs/tree/dev/specs
 - https://github.com/nodejs/node
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkxNzM0ODVdfQ==
+eyJoaXN0b3J5IjpbLTg3MTA3NDY0N119
 -->
