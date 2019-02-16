@@ -89,9 +89,11 @@ También queda a la libertad individual de cada participante (interno o externo)
 
 ### Pull Requests
 
-Los Pull Request deberán contener los archivos de estructura de una nueva propuesta, o cambios a los archivos de alguna de las propuestas ya existentes.
+Los Pull Request deberán contener los archivos de estructura de una nueva propuesta, o cambios a los archivos de alguna de las propuestas ya existentes. Cada Pull Request deberá ser aprobado por la totalidad de los autores definidos en el archivo `AUTHORS` asociado al proyecto. Cualquier otra persona está bienvenida a comentar en los Pull Requests abiertos, sin embargo, quedará a discreción de los autores aceptar o descalificar la sugerencia.
 
 ### Otras Herramientas de GitHub
+
+En es
 
 ## Cómo Contribuír
 
@@ -116,5 +118,5 @@ Los siguientes enlaces sirvieron de inspiración para este proyecto:
 - https://github.com/ethereum/eth2.0-specs/tree/dev/specs
 - https://github.com/nodejs/node
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MDEwNDMxNDFdfQ==
+eyJoaXN0b3J5IjpbLTEyNzQ2NzY3NDRdfQ==
 -->
