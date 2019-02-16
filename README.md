@@ -89,7 +89,7 @@ También queda a la libertad individual de cada participante (interno o externo)
 
 ### Pull Requests
 
-Los Pull Request deberán contener los archivos de estructura de una nueva propuesta, o cambios a los archivos de alguna de las propuestas ya existentes. Cada Pull Request deberá ser aprobado por la totalidad de los autores definidos en el archivo `AUTHORS` asociado al proyecto. Cualquier otra persona está bienvenida a comentar en los Pull Requests abiertos, sin embargo, quedará a discreción de los autores aceptar o descalificar la sugerencia.
+Los Pull Request deberán contener los archivos de estructura de una nueva propuesta, o cambios a los archivos de alguna de las propuestas ya existentes. En caso de ser un Pull Request de un proyecto nuevo, se deberá seguir la estructura definida en Cada Pull Request deberá ser aprobado por la totalidad de los autores definidos en el archivo `AUTHORS` asociado al proyecto. Cualquier otra persona está bienvenida a comentar en los Pull Requests abiertos, sin embargo, quedará a discreción de los autores aceptar o descalificar la sugerencia.
 
 ### Otras Herramientas de GitHub
 
@@ -99,7 +99,7 @@ En este repositorio buscaremos usar otras herramientas disponibles para proyecto
 
 Se puede contribuir tanto mediante la web oficial de GitHub como mediante del terminal, haciendo una copia del repositorio y subiendo cambios (en caso de tener acceso).
 
-Las conversaciones se mantendrán en los _issues_ asociados a cada proyecto, y las sugerencias al contenido propuesto irá como parte de los Pull Requests relacionados a cada proyecto. En caso de sugerir un cambio que esté relacionado a un _issue_ existente, se deberá hacer referencia al issue usando el formato `#[número del issue]`, el cual también es válido para hacer referencia a otros pull requests (los issues y los pull requests comparten el mismo incrementador numérico)
+Las conversaciones se mantendrán en los _issues_ asociados a cada proyecto, y las sugerencias al contenido propuesto irá como parte de los Pull Requests relacionados a cada proyecto. En caso de sugerir un cambio que esté relacionado a un _issue_ existente, se deberá hacer referencia al issue usando el formato `#[número del issue]`, el cual también es válido para hacer referencia a otros pull requests (los issues y los pull requests comparten el mismo incrementador numérico). En caso de sugerir un cambio que esté relacionado un una línea identificable del contenido propuesto, de preferencia se deberá hacer como comentario directo en la línea de código correspondiente.
 
 ## Código de conducta
 
@@ -122,5 +122,5 @@ Los siguientes enlaces sirvieron de inspiración para este proyecto:
 - https://github.com/ethereum/eth2.0-specs/tree/dev/specs
 - https://github.com/nodejs/node
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU4ODM4NDE0M119
+eyJoaXN0b3J5IjpbMTQyNDYzNDE1MV19
 -->
