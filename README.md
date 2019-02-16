@@ -101,11 +101,11 @@ Se puede contribuir tanto mediante la web oficial de GitHub como mediante del te
 
 Las conversaciones se mantendrán en los _issues_ asociados a cada proyecto, y las sugerencias al contenido propuesto irá como parte de los Pull Requests relacionados a cada proyecto. En caso de sugerir un cambio que esté relacionado a un _issue_ existente, se deberá hacer referencia al issue usando el formato `#[número del issue]`, el cual también es válido para hacer referencia a otros pull requests (los issues y los pull requests comparten el mismo incrementador numérico). En caso de sugerir un cambio que esté relacionado un una línea identificable del contenido propuesto, de preferencia se deberá hacer como comentario directo en la línea de código correspondiente.
 
+Además, toda contribución deberá estar adherida al Código de Conducta presente en este proyecto, sin embargo, cualquier proyecto elaborado por fuera de este repositorio producto de contenido aquí presente, no está necesariamente atado a los lineamientos definidos aquí.
+
 ## Código de conducta
 
-Todos los autores y participantes de este repositorio deberán
-adherirse al código de conducta presente en `/CODE_OF_CONDUCT.md` si
-excepciones.
+Todos los autores y participantes de este repositorio deberán adherirse al código de conducta presente en `/CODE_OF_CONDUCT.md` sin excepciones. Sin embargo, cualquier proyecto elaborado por fuera de este repositorio producto de contenido aquí presente, no está necesariamente atado a los lineamientos definidos aquí.
 
 ## Licencia
 
@@ -122,5 +122,5 @@ Los siguientes enlaces sirvieron de inspiración para este proyecto:
 - https://github.com/ethereum/eth2.0-specs/tree/dev/specs
 - https://github.com/nodejs/node
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM5MTU2MjE5Nl19
+eyJoaXN0b3J5IjpbMTI0NTY4MzAxOV19
 -->
