@@ -53,13 +53,13 @@ Explicación:
 
 - `/[categoría]/[nombre-del-proyecto]` Cada proyecto deberá estar dentro de alguna de las carpetas de categorías. Si la categoría no existe, se debe crear. Trataremos de minimizar la totalidad de las categorías para evitar redundancia. La carpeta de cada idea deberá ser llamada en base al nombre del proyecto, donde cada palabra deberá estar unida a la siguiente usando el símbolo `-`.
 - `README.md` Cada proyecto deberá tener un archivo README escrito en Markdown que por lo menos describa al proyecto y además explique su justificación y su estructura.
-- `CHANGELOG.md` Este archivo documentará cambios hechos a lo largo del tiempo a cada idea. Cada Pull Request deberá incluir al menos un cambio en el archivo CHANGELOG.md correspondiente a la idea. El primer Pull Request que se haga deberá incluir este archivo con una sola entrada:
+- `CHANGELOG.md` Este archivo documentará cambios hechos a lo largo del tiempo a cada idea. Cada Pull Request deberá incluir al menos un cambio en el archivo CHANGELOG.md correspondiente a la idea que se elabora. El primer Pull Request que se haga deberá incluir este archivo con una sola entrada:
 ```
 # 0.0.0
 * Idea [categoría]/[nombre-del-proyecto] creada.
 ```
-- `AUTHORS` Este archivo contendrá el nombre completo y el correo de las personas que se responsabilizarán por el desarrollo de este proyecto. A estas personas les pertenecerá el contenido del proyecto, y dependerá de estas personas el alcance y la licencia del mismo. **La licencia de los contenidos en este repositorio está regida por el archivo LICENSE**, pero **cada proyecto tendrá su propia licencia y otras restricciones en el repositorio donde se conlleve su desarrollo**. Recordemos que este repositorio es solo para llegar a acuerdos. Para más información, ver la sección de [Licencia](#licencia).
-- `code/` En el caso de que un proyecto incluya código fuente, este código deberá ir en la carpeta `code/`. **Estos proyectos no están pensados para contener repositorios completos**, el código que exista aquí deberá ser código de referencia, que pueda ser usado como punto de partida o ideas para cuando se elabore el proyecto final.
+- `AUTHORS` Este archivo contendrá el nombre completo y el correo de las personas que se responsabilizarán por este proyecto. A estas personas les pertenecerá el contenido del proyecto, y dependerá de estas personas el alcance y la licencia del mismo. La licencia de los contenidos en este repositorio está regida por el archivo LICENSE, pero **cada proyecto tendrá su propia licencia y otras restricciones en el repositorio donde se conlleve su desarrollo**. Recordemos que este repositorio es solo para llegar a acuerdos. Para más información, ver la sección de [Licencia](#licencia).
+- `code/` En el caso de que un proyecto incluya código fuente, este código deberá ir en esta carpeta. **Estos proyectos no están pensados para contener repositorios completos**, el código que exista aquí deberá ser código de referencia, que pueda ser usado como punto de partida o ideas para cuando se elabore el proyecto final.
 - `docs/` En el caso de que un proyecto contenga archivos de texto con formato, estos deberán estar escritos en Markdown o en Latex, y deberán estar en el sub-directorio `docs/`.
 - `[otras carpetas y/o archivos]` Las carpetas antes mencionadas puede que no se adapten plenamente a todas las propuestas de proyectos que se puedan presentar. Siéntanse libre de crear más carpetas en donde agrupar contenido. Traten de ser concisos para minimizar la totalidad de estas carpetas.
 
@@ -114,5 +114,5 @@ Los siguientes enlaces sirvieron de inspiración para este proyecto:
 - https://github.com/ethereum/eth2.0-specs/tree/dev/specs
 - https://github.com/nodejs/node
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIyNjY2Mjk5MF19
+eyJoaXN0b3J5IjpbLTE4Mzc5NDc0ODhdfQ==
 -->
