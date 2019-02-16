@@ -95,9 +95,11 @@ Los Pull Request deberán contener los archivos de estructura de una nueva propu
 
 En este repositorio buscaremos usar otras herramientas disponibles para proyectos específicos. Ya sean Milestones o Proyectos (o herramientas futuras dentro de esta plataforma), deberá delimitarse claramente como asociada a un proyecto específico.
 
-## Cómo Contribuír
+## Cómo Contribuir
 
+Se puede contribuir tanto mediante la web oficial de GitHub como mediante del terminal, haciendo una copia del repositorio y subiendo cambios (en caso de tener acceso).
 
+Las conversaciones se mantendrán en los _issues_ asociados a cada proyecto, y las sugerencias al contenid
 
 ## Código de conducta
 
@@ -120,5 +122,5 @@ Los siguientes enlaces sirvieron de inspiración para este proyecto:
 - https://github.com/ethereum/eth2.0-specs/tree/dev/specs
 - https://github.com/nodejs/node
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA0Mzk3MTE0M119
+eyJoaXN0b3J5IjpbNzg1NzExNDcxXX0=
 -->
