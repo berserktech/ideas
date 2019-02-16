@@ -1,16 +1,10 @@
 ﻿# Ideas
 
-Welcome to our repository of conceptualization, design, requirements and specifications.
-Since we're all Venezuelans, we'll be writing this in Spanish. 🇻🇪
+Welcome to our repository of conceptualization, design, requirements and specifications. Since we're all Venezuelans, we'll be writing this in Spanish. 🇻🇪
 
 ## Nuestro Repositorio de Ideas
 
-Bienvenidos a nuestra central de creatividad. Aquí documentaremos todo
-tipo de ocurrencias y conjeturas. Usaremos prácticas estándares de
-desarrollo para contribuir sobre las ideas propuestas hasta darle
-forma a algo viable. Debido a la forma autorreferencial de este
-repositorio, es necesario desglozar nuestras intenciones en los
-siguientes puntos: 
+Bienvenidos a nuestra central de creatividad. Aquí documentaremos todo tipo de ocurrencias y conjeturas. Usaremos prácticas estándares de desarrollo para contribuir sobre las ideas propuestas hasta darle forma a algo viable. Debido a la forma autorreferencial de este repositorio, es necesario desglozar nuestras intenciones en los siguientes puntos: 
 
 - [La **motivación** detrás de este repositorio.](#motivacion)
 - [La **estructura** de los archivos en este repositorio.](#estructura)
@@ -214,5 +208,5 @@ Los siguientes enlaces sirvieron de inspiración para este proyecto:
 - https://github.com/ethereum/eth2.0-specs/tree/dev/specs
 - https://github.com/nodejs/node
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk0ODk0NzUxMF19
+eyJoaXN0b3J5IjpbLTExMDc5MzYxOThdfQ==
 -->
