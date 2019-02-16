@@ -82,19 +82,9 @@ Por cada PR (Pull Request), se deberá hacer referencia a al menos un _issue_ ex
 
 Será perfectamente válido incluir números de issues tanto en cualquier título como en cualquier descripción, comentario o contenido (con la forma del numeral `#` seguido del número del issue).
 
-**QUEDA A DISCRECIÓN DE LOS AUTORES DE CADA PROYECTO LA INCLUSIÓN DE
-SOLICITUDES, AÑADIR AUTORES O LA RESOLUCIÓN DE CONFLICTOS.** Sin
-embargo, **TODOS LOS AUTORES DEBERÁN ADHERIRSE AL CÓDIGO DE CONDUCTA
-PRESENTE EN ESTE REPOSITORIO**.
+**QUEDA A DISCRECIÓN DE LOS AUTORES DE CADA PROYECTO LA INCLUSIÓN DE SOLICITUDES, AÑADIR AUTORES O LA RESOLUCIÓN DE CONFLICTOS.** Sin embargo, **TODOS LOS AUTORES DEBERÁN ADHERIRSE AL CÓDIGO DE CONDUCTA PRESENTE EN ESTE REPOSITORIO**.
 
-También queda a la libertad individual de cada participante (interno o
-externo) la posibilidad de crear una copia idéntica de cada proyecto
-que incluya cualquier cambio al que no se llegue un acuerdo incluir en
-el proyecto original, lo cual es válido siempre y cuando estos cambios
-sean sobre el contenido publicado en este repositorio. Reiteramos, la
-ubicación y las condiciones de otros repositorios que surjan como
-producto de lo publicado en este NO sostendrá las limitaciones o
-garantías existentes en este repositorio.
+También queda a la libertad individual de cada participante (interno o externo) la posibilidad de crear una copia idéntica de cada proyecto que incluya cualquier cambio al que no se llegue un acuerdo incluir en el proyecto original, lo cual es válido siempre y cuando estos cambios sean sobre el contenido publicado en este repositorio. Reiteramos, la ubicación y las condiciones de otros repositorios que surjan como producto de lo publicado en este NO sostendrá las limitaciones o garantías existentes en este repositorio.
 
 ### Milestones
 
@@ -110,13 +100,7 @@ excepciones.
 
 ## Licencia
 
-**La licencia de los contenidos en este repositorio está regida por el
-archivo LICENSE**, pero **cada proyecto tendrá su propia licencia y
-otras restricciones en el repositorio donde se conlleve su
-desarrollo**. Recordemos que este repositorio es solo para llegar a
-acuerdos. Por consiguiente **TODO LO PUBLICADO EN ESTE REPOSITORIO
-ESTÁ ATADO A LA LICENCIA DISPONIBLE EN EL ARCHIVO "LICENSE" EN LA RAÍZ
-DEL REPOSITORIO**, la cual es: Creative Commons.
+**La licencia de los contenidos en este repositorio está regida por el archivo LICENSE**, pero **cada proyecto tendrá su propia licencia y otras restricciones en el repositorio donde se conlleve su desarrollo**. Recordemos que este repositorio es solo para llegar a acuerdos. Por consiguiente **TODO LO PUBLICADO EN ESTE REPOSITORIO ESTÁ ATADO A LA LICENCIA DISPONIBLE EN EL ARCHIVO "LICENSE" EN LA RAÍZ DEL REPOSITORIO**, la cual es: Creative Commons.
 
 TODO: hacen falta detalles en la licencia.
 
@@ -129,5 +113,5 @@ Los siguientes enlaces sirvieron de inspiración para este proyecto:
 - https://github.com/ethereum/eth2.0-specs/tree/dev/specs
 - https://github.com/nodejs/node
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTExNTQ0MDBdfQ==
+eyJoaXN0b3J5IjpbNTExODk1MzZdfQ==
 -->
