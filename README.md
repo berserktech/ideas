@@ -87,6 +87,8 @@ Será perfectamente válido incluir números de issues tanto en cualquier títul
 
 También queda a la libertad individual de cada participante (interno o externo) la posibilidad de crear una copia idéntica de cada proyecto en caso de que no se llegue un acuerdo determinado en el proyecto original, lo cual es válido siempre y cuando estos cambios sean sobre el contenido publicado en este repositorio. Reiteramos, la ubicación y las condiciones de otros repositorios que surjan como producto de lo publicado en este NO sostendrá las limitaciones o garantías existentes en este repositorio. La única excepción a esta regla son los proyectos en la categoría **meta**. Copias a estos proyectos deberán hacerse en otros repositorios, para evitar conflictos fundamentales aquí.
 
+Está permitido crear otras issues para poder identificar o especificar la naturaleza de cualquier Issue y Pull Request que no es
+
 ### Pull Requests
 
 Los Pull Request deberán contener los archivos de estructura de una nueva propuesta, o cambios a los archivos de alguna de las propuestas ya existentes. En caso de ser un Pull Request de un proyecto nuevo, se deberá seguir la estructura definida en la sección [Estructura](#estructura). Cada Pull Request deberá ser aprobado por la totalidad de los autores definidos en el archivo `AUTHORS` asociado al proyecto. Cualquier otra persona está bienvenida a comentar en los Pull Requests abiertos, sin embargo, quedará a discreción de los autores aceptar o descalificar la sugerencia.
@@ -124,5 +126,6 @@ Los siguientes enlaces sirvieron de inspiración para este proyecto:
 - https://github.com/ethereum/eth2.0-specs/tree/dev/specs
 - https://github.com/nodejs/node
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3ODcwNDM5NjUsMTUwNzk3NDU3NV19
+eyJoaXN0b3J5IjpbLTIwNzQ2Mjc0MzQsLTE3ODcwNDM5NjUsMT
+UwNzk3NDU3NV19
 -->
