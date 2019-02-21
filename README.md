@@ -16,12 +16,11 @@ Bienvenidos a nuestra central de creatividad. Aquí documentaremos todo tipo de 
 
 ## Motivación
 
-**BerserkTech** es una comunidad limitada, compuesta de personas capacitadas en conocimientos técnicos y relacionados, con la simple finalidad de lograr cohesión entre la presencia en internet y las ideas de los miembros. Buscamos, con un mínimo de esfuerzo durante nuestro tiempo libre, contribuir con actividades que nos parezcan entretenidas o interesantes, y que por sí mismas sirvan de publicidad para todos y cada uno de nosotros.
+**BerserkTech** es una comunidad de participantes limitados, compuesta de personas capacitadas en conocimientos técnicos y relacionados, con la simple finalidad de lograr cohesión entre la presencia en internet y las ideas de los miembros. Buscamos, con un mínimo de esfuerzo durante nuestro tiempo libre, contribuir con actividades que nos parezcan entretenidas o interesantes, y que por sí mismas sirvan de publicidad para todos y cada uno de nosotros.
 
-Este repositorio surge como respuesta a la necesidad de documentar y establecer orden en la colaboración sobre las ideas que tengamos. **Contribuir en este repositorio no es requerido**. Miembros de esta comunidad pueden hacer contribuciones diréctamente a los repositorios
-existentes, o crear nuevos repositorios a voluntad.
+Este repositorio surge como respuesta a la necesidad de documentar y establecer orden en la colaboración sobre las ideas que tengamos. **Contribuir en este repositorio no es requerido**. Miembros de esta comunidad pueden hacer contribuciones directamente a los repositorios existentes, o crear nuevos repositorios a voluntad.
 
-Participar en este repositorio es sugerido para maximizar la claridad de las ideas que queremos elaborar dentro de la comunidad. Otros medios de comunicación suelen ser impermanentes y no garantizan el entendimiento mutuo a la hora de proponer cambios, o bien de estar al tanto de que los desacuerdos han sido resueltos. Aquí podemos aportar ideas durante la elaboración de una propuesta, y refinar la propuesta a través del tiempo.
+Participar en este repositorio es sugerido para para aclarar las ideas que queremos llevar a cabo dentro de la comunidad. Otros medios de comunicación suelen ser impermanentes y no garantizan el entendimiento mutuo a la hora de proponer cambios, o bien de estar al tanto de que los desacuerdos han sido resueltos. Aquí podemos aportar ideas durante la elaboración de una propuesta, y refinar la propuesta a través del tiempo.
 
 **Cualquier persona viendo esto está invitada a participar en cualquiera de las discusiones aquí presentes**, sin embargo, **no garantizamos atender a todas las sugerencias**, nuestra prioridad son los miembros del equipo.
 
