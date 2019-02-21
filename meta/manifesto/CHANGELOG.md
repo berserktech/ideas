@@ -1,2 +1,2 @@
-# 0.0.0
-* Idea meta/manifesto creada.
+﻿# 0.0.0
+* Idea meta/manifesto created.
