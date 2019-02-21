@@ -1,10 +1,9 @@
-# Manifesto
+﻿# Manifesto
 
-Aquí nuestro Manifesto.
+Here's our Manifesto.
 
-Originalmente fue publicado aquí: https://medium.com/berserktech/manifesto-b9eda0fda1a7
+It was originally published here: https://medium.com/berserktech/manifesto-b9eda0fda1a7
 
-En este directorio podemos trabajar en mejorarlo. 🙌
+Let's make it better together 🙌
 
-Gracias,
-Daniel.
+Cheers,
