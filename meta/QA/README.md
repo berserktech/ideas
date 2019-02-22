@@ -17,15 +17,18 @@ NOTAS.md
 [otras carpetas y/o archivos]
 ```
 
-Cada `NOTAS.md` tendra la siguiente estructura:
+Cada `NOTAS.md` tendra la siguiente estructura (o parecido):
 
 ```
-# 2018-02-23
+# YYYY-mm-dd
 
 Hora de inicio:
 
 Asistentes:
 - Daniel Rodriguez
+
+Tema:
+
 
 Resumen:
 - [Puntos tratados, de forma cronologica]
