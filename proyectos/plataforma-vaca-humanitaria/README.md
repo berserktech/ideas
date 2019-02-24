@@ -104,6 +104,10 @@ mejore la calidad del impacto obtenido.
   operación y necesidades de la plataforma.
 - Explorar el uso de la tecnología para reducir los riesgos y eliminar
   intermediarios en la cadena de ayuda.
+  
+## Diagrama
+
+![Diagrama](assets/diagram.png)
 
 ## Referencias
 
