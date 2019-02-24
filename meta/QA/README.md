@@ -17,7 +17,7 @@ NOTAS.md
 [otras carpetas y/o archivos]
 ```
 
-Cada `NOTAS.md` tendra la siguiente estructura (o parecido):
+Cada `NOTAS.md` tendrá la siguiente estructura (o parecido):
 
 ```
 # YYYY-mm-dd
