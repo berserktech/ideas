@@ -41,16 +41,17 @@ Esta iniciativa nace con la intención de mitigar el efecto de algunos
 de los factores principales que han ocasionado que las iniciativas
 actuales no generen los resultados esperados:
 
-- Visibilidad: muchas personas con la capacidad de brindar
+- Visibilidad: personas con la capacidad de brindar
   apoyo no tienen visibilidad de las situaciones que su colaboración
   podría impactar de manera positiva.
-- Confianza: lamentablemente, personas sin escrúpulos han
-  utilizado esta situación para esconderse detrás de iniciativas de
-  este tipo para obtener donacionese en línea y fuera de línea,
-  reuniendo recursos para su propio beneficio y defraudando a los
-  colaboradores.
+- Confianza:
+  - Fraudes: lamentablemente, personas sin escrúpulos han
+    utilizado esta situación para esconderse detrás de iniciativas de
+    este tipo para obtener donacionese en línea y fuera de línea,
+    reuniendo recursos para su propio beneficio y defraudando a los
+    colaboradores.
   - Transparencia y retroalimentación: la falta de transparencia en
-    las actividades de muchas organizaciones y/o individuales, así como
+    las actividades de organizaciones y/o individuales, así como
     la ausencia de evidencias del impacto del soporte que se brinda,
     hace que muchas personas dispuestas a colaborar se abstengan.
   - Obstáculos logísticos: la colocación contínua de obstáculos para el
@@ -58,4 +59,54 @@ actuales no generen los resultados esperados:
     como a través de puertos y aduanas, afecta también la confianza a la
     hora de brindar apoyo, debido a que existen pocas garantías de que
     este apoyo llegue a sus beneficiarios finales.
+- Conveniencia: personas que aún ignorando los factores 
+  anteriores desean colaborar, encuentran dificultades para hacerlo
+  debido a carencias de tiempo, complejidad de las plataformasxs
+  existentes o por falta de claridad sobre como colaborar.
+- Calidad del apoyo: en campañas de recolección de equipos y
+  materiales, los mismos muchas veces son redundantes, no orientados a
+  las necesidades reales, o sencillamente no de la calidad esperada.
+- Iniciativas locales sin apoyo: existen iniciativas in situ, que
+  aunque no puedan solucionar todos los problemas por sí solas, pueden
+  afectar de manera positiva la vida de sus comunidades, fomentando la
+  autogestión y mejorando la calidad de vida. Estas iniciativas pasan
+  desapercibidas y no consiguen el apoyo que necesitan para realizar
+  sus proyectos.
 
+Mientras que todas estas situaciones parecen muy específicas a la
+situación actual de Venezuela, se pueden observar condiciones
+similares casi en cada uno de los casos en que existen situaciones de
+emergencia humanitaria en todo el mundo, por lo que no se descarta que
+este proyecto pueda atender casos fuera del territorio venezolano.
+
+## Objetivo general
+
+Implementar una plataforma concentradora de apoyo para iniciativas de
+caracter humanitario y social, que amplifique la visibilidad de las
+necesidades, ofrezca confianza y conveniencia a los colaboradores y
+mejore la calidad del impacto obtenido.
+
+## Objetivos específicos
+
+- Hacer uso de técnicas de mercadeo digital para aumentar la
+  visibilidad de las necesidades humanitarias.
+- Servir como concentrador de apoyo con un sistema completamente
+  público y transparente de seguimiento del apoyo monetario en un
+  *pote* centralizado.
+- Ofrecer un sistema abierto de evaluación de casos, así como de
+  asignación de beneficios desde el *pote*.
+- Establecer asociaciones estratégicas con organizaciones, ONGs y
+  asociaciones civiles para la creación y documentación de casos en la
+  plataforma, así como la canalización logística de las asignaciones
+  de apoyo hasta sus beneficiarios finales.
+- Establecer asociaciones con entes públicos y privados que patrocinen
+  tanto la alimentación del fondo de apoyo, o *pote*, como la
+  operación y necesidades de la plataforma.
+- Explorar el uso de la tecnología para reducir los riesgos y eliminar
+  intermediarios en la cadena de ayuda.
+
+## Referencias
+
+- [Help4Venezuela](https://github.com/dynarro/help4venezuela)
+- [Fluxx](https://www.fluxx.io/)
+- [Building Blocks](https://innovation.wfp.org/project/building-blocks/)
