@@ -1,8 +1,8 @@
 ﻿# Q&A
 
-Reunion semanal para hacernos preguntas y respuestas entre nosotros.
+Reunión semanal para hacernos preguntas y respuestas entre nosotros.
 
-## Definicion
+## Definición
 
 En lo posible, llevaremos reuniones semanales en donde aprenderemos
 unos de los otros. Comunicaremos el tema mediante Telegram y
@@ -31,7 +31,7 @@ Tema:
 
 
 Resumen:
-- [Puntos tratados, de forma cronologica]
+- [Puntos tratados, de forma cronológica]
 
 Enlaces:
 - <enlace 1>
