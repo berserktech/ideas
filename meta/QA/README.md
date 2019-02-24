@@ -2,6 +2,11 @@
 
 Reunión semanal para hacernos preguntas y respuestas entre nosotros.
 
+## Calendario
+
+Para poder hacerle seguimiento a estas y otras reuniones, por favor ingresar al siguiente calendario:
+https://bit.ly/2NqIp2C
+
 ## Definición
 
 En lo posible, llevaremos reuniones semanales en donde aprenderemos
