@@ -1,2 +1,2 @@
 ﻿# 0.0.0
-- Definicion de idea/QA
+- Definición de idea/QA
