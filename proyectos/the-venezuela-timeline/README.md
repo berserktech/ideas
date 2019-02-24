@@ -32,7 +32,12 @@ los relacionan y haciendo difícil para la población la evaluación de
 los mismos, de manera que terminan aceptando la opinión que, muchas
 veces de manera intencional, se les presenta más accesible.
 
-
 ## Referencias
 
 - [The Verification Handbook](http://verificationhandbook.com/)
+- [Grafo de Ejemplo](examples/e0.png)
+
+## Renderizando los ejemplos
+
+- Instalar [graphviz](https://graphviz.gitlab.io/)
+- `dot -Tpng examples/e0.dot -o examples/e0.png`

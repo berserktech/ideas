@@ -1,0 +1,58 @@
+digraph timeline {
+
+  # base example events
+  # based upon https://www.facebook.com/photo.php?fbid=10218454716299956&set=a.10207164889061331&type=3&theater
+  a [label="12-2015: Elecciones Legislativas"]
+  b [label="01-2016: Designación de Magistrados [TSJ] por [AN] saliente"]
+  c [label="01-2016: Impedimento de incorporación de diputados del Amazonas"]
+  d [label="01-2016: Desconocimiento de orden sobre diputados del Amazonas"]
+  e [label="01-2016: [TSJ[ inhabilita a la [AN]"]
+  e [label="10-2016: Referendo revocatorio bloqueado por tribunales regionales"]
+  f [label="03-2017: Fiscal general declara ruptura del orden constitucional por decision del TSJ de invalidar decisiones de la AN"]
+  g [label="03-2017: Mas de 100 asesinatos en hola de protestas"]
+  h [label="07-2017: Convocación de elecciones para la ANC"]
+  i [label="07-2017: Smartmatic denuncia diferencias en cifras anunciadas como resultado de las elecciones"]
+  j [label="03-2018: Maduro gana elecciones convocadas por la ANC"]
+  k [label="03-2018: Paises del mundo no reconocen resultados"]
+  l [label="01-2019: Maduro toma juramento frente al TSJ"]
+  m [label="01-2019: Presidente de la AN, Juan Guaidó, asume presidencia interina y denuncia usurpación"]
+  
+  # base example timeline
+  start -> a;
+  a -> b;
+  b -> c;
+  c -> d;
+  d -> e;
+  e -> f;
+  f -> g;
+  g -> h;
+  h -> i;
+  i -> j;
+  j -> k;
+  k -> l;
+  l -> m;
+  m -> end;
+  
+  # event "a" subgraph
+  # blue is fact
+  # green is alternate opinion
+  # gray is generic relation
+  subgraph {
+      n [label="Oposición vence con mayoría absoluta"];
+      o [label="variante: Fraude en Amazonas, no hay mayoria absoluta"]
+      a -> n [color="blue"];
+      n -> o [color="green"];
+      c -> o [color="grey"];
+      d -> o [color="grey"];
+  }
+  
+  # event "l" subgraph
+  subgraph {
+      p [label="Comienza usurpación del poder"]
+      l -> p [color="blue"]
+  }
+  
+
+  start [shape=square];
+  end [shape=square];
+}
