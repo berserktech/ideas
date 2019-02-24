@@ -25,7 +25,7 @@ Cada `NOTAS.md` tendrá la siguiente estructura (o parecido):
 Hora de inicio:
 
 Asistentes:
-- Daniel Rodriguez
+- [nombre, apellido y Twitter handle, o correo]
 
 Tema:
 
