@@ -3,7 +3,7 @@
 Hora de inicio:
 
 Asistentes:
-- Daniel Rodriguez
+- [Nombre, apellido y Twitter handle o correo]
 
 Tema:
 React
