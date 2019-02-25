@@ -1,9 +1,9 @@
 digraph timeline {
 
-  # base example events
-  # based upon https://www.facebook.com/photo.php?fbid=10218454716299956&set=a.10207164889061331&type=3&theater
+  # Eventos de ejemplo para la linea base
+  # basado en https://www.facebook.com/photo.php?fbid=10218454716299956&set=a.10207164889061331&type=3&theater
   a [label="12-2015: Elecciones Legislativas"]
-  b [label="01-2016: Designación de Magistrados [TSJ] por [AN] saliente"]
+  b [label="12-2015: Designación de Magistrados [TSJ] por [AN] saliente"]
   c [label="01-2016: Impedimento de incorporación de diputados del Amazonas"]
   d [label="01-2016: Desconocimiento de orden sobre diputados del Amazonas"]
   e [label="01-2016: [TSJ[ inhabilita a la [AN]"]
@@ -17,7 +17,7 @@ digraph timeline {
   l [label="01-2019: Maduro toma juramento frente al TSJ"]
   m [label="01-2019: Presidente de la AN, Juan Guaidó, asume presidencia interina y denuncia usurpación"]
   
-  # base example timeline
+  # línea base del tiempo
   start -> a;
   a -> b;
   b -> c;
@@ -33,10 +33,10 @@ digraph timeline {
   l -> m;
   m -> end;
   
-  # event "a" subgraph
-  # blue is fact
-  # green is alternate opinion
-  # gray is generic relation
+  # nodos asociados al evento "a"
+  # azul es un hecho comprobado
+  # verde es una opinión
+  # gris es una relación genérica
   subgraph {
       n [label="Oposición vence con mayoría absoluta"];
       o [label="variante: Fraude en Amazonas, no hay mayoria absoluta"]
@@ -46,13 +46,12 @@ digraph timeline {
       d -> o [color="grey"];
   }
   
-  # event "l" subgraph
+  # nodos asociados al evento "l"
   subgraph {
       p [label="Comienza usurpación del poder"]
       l -> p [color="blue"]
   }
   
-
   start [shape=square];
   end [shape=square];
 }
