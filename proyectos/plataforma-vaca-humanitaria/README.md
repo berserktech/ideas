@@ -104,7 +104,48 @@ mejore la calidad del impacto obtenido.
   operación y necesidades de la plataforma.
 - Explorar el uso de la tecnología para reducir los riesgos y eliminar
   intermediarios en la cadena de ayuda.
-  
+
+## Hoja de Ruta
+
+* Crear y mantener un listado público de *organizaciones*,
+  asociaciones y grupos en general dedicados a la recolección de
+  recursos y su envío a Venezuela para paliar necesidades de carácter
+  humanitario, que estén verificadas y que den garantías de seriedad
+* Mantener, en conjunto con las organizaciones presentes en la
+  plataforma, un listado de *casos* de necesidades humanitarias que
+  pueden ser resueltas con bienes físicos y permitir que las
+  organizaciones detrás de cada caso puedan ser contactadas y
+  coordinar la entrega de los mismos a través de la plataforma
+* Implementar una campaña permanente de reclutamiento de *voluntarios*
+  dedicados a la evaluación y seguimiento de casos y organizaciones
+* Diseñar e implementar una campaña permanente de *mercadeo digital*
+  para dar visibilidad a los *casos* y *organizaciones* presentes en
+  la plataforma y atraer colaboradores
+* Implementar un *fondo* al que los *colaboradores* puedan suscribirse
+  para realizar donaciones en dinero, sea de manera periódica como de
+  una sola vez, que permita canalizar recursos hacia las fundaciones
+  para la compra de materiales y equipos para atender necesidades
+  humanitarias.
+* Implementar un sistema público de verificación, priorización y
+  *otorgamiento* de beneficios desde el *fondo* a *casos*
+  específicos. Véase [Fluxx] como inspiración.
+* Dar la posibilidad a *colaboradores* registrados de *votar* por
+  casos de su interés, utilizando un sistema de votación inspirado en
+  [Condorcet], sobre un conjunto de casos verificados en rotación
+  permanente y con un grado garantizado de diversidad, como
+  complemento al sistema de verificación, con el objetivo de reducir
+  la concentración de otorgamientos en una muestra de casos de
+  características constantes.
+* Abrir la plataforma a entidades no individuales que quieran fungir
+  como *patrocinadores* realizando aportes al *fondo*, así como al
+  mantenimiento y promoción de la misma.
+
+### Futuro
+
+* Permitir la asignación directa de recursos a los beneficiarios
+  finales en un sistema de intercambio digital. Véase [Building
+  Blocks]
+
 ## Diagrama
 
 ![Diagrama](assets/diagram.png)
@@ -114,3 +155,4 @@ mejore la calidad del impacto obtenido.
 - [Help4Venezuela](https://github.com/dynarro/help4venezuela)
 - [Fluxx](https://www.fluxx.io/)
 - [Building Blocks](https://innovation.wfp.org/project/building-blocks/)
+- [Condorcet](https://es.wikipedia.org/wiki/M%C3%A9todo_de_Condorcet)
