@@ -36,10 +36,10 @@ Resumen:
     -   Para unit tests de modelos de datos, o datos que dependen de interacciones de usuarios, el approach de Carlos me parece el mejor.
     -   Para APIs ya existentes, se puede reducir la incertidumbre teniendo copias de las respuestas de la API en una carpeta `/fixtures`.
     -   Mi workflow actual de TDD:
-    -   Primero hago un integration test que imprima el resultado del API y falle (porque el test no está escrito, o no está bien escrito).
-    -   El resultado del API lo añado a la carpeta `/fixtures`.
-    -   Escribo unit tests contra mi código, donde mi código agarra los datos de `/fixtures` en vez de hacer el request al API.
-    -   Corro el integration test una vez que termine.
+        -   Primero hago un integration test que imprima el resultado del API y falle (porque el test no está escrito, o no está bien escrito).
+        -   El resultado del API lo añado a la carpeta `/fixtures`.
+        -   Escribo unit tests contra mi código, donde mi código agarra los datos de `/fixtures` en vez de hacer el request al API.
+        -   Corro el integration test una vez que termine.
     -   Idealmente se separan las funciones del estado / de los side effects, entonces se puede hacer TDD a las funciones diréctamente.
     -   Veo que idealmente un proyecto (pequeño, o dividido en segmentos pequeños) debería tener la menor cantidad de código posible que se encargue de los side-effects, incluyendo entradas y salidas.
     -   El código que queda separado, debería poder ser lo suficientemente puro para hacer unit tests sin mucho boilerplate, e incluso usando herramientas como jsverify, que hace fuzz tests contra las funciones: [https://github.com/jsverify/jsverify](https://github.com/jsverify/jsverify)
