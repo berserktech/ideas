@@ -50,6 +50,7 @@ Before translating to TypeScript, let's find examples out there:
 
 - https://medium.com/@codingfreak/top-50-dynamic-programming-practice-problems-4208fed71aa3<Paste>
   - `Dynamic Programming is a method for solving a complex problem by breaking it down into a collection of simpler subproblems, solving each of those subproblems just once, and storing their solutions using a memory-based data structure (array, map,etc).`
+  - `./code/src/dynamic/longest_common_subsequence.ts`
 
 Note: The previous link is pretty good. I've been checking it out for a while. I haven't been able to come back.
 
