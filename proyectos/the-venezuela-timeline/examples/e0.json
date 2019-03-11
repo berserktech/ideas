@@ -1,0 +1,164 @@
+{
+  "graphs": [
+    {
+      "label": "Venezuela: la línea del tiempo",
+      "nodes": [
+        {
+          "id": "time-root"
+        },
+        {
+          "id": "2015",
+          "type": "year"
+        },
+        {
+          "id": "2015-12",
+          "type": "month"
+        },
+        {
+          "id": "2015-12-06",
+          "type": "day"
+        },
+        {
+          "id": "2015-12-15",
+          "type": "day"
+        },
+        {
+          "id": "2015-12-23",
+          "type": "day"
+        },
+        {
+          "id": "2016",
+          "type": "year"
+        },
+        {
+          "id": "2016-01",
+          "type": "month"
+        },
+        {
+          "id": "2016-01-01",
+          "type": "day"
+        },
+        {
+          "id": "a",
+          "type": "event",
+          "label": "Elecciones Legislativas 2015",
+          "metadata": {
+            "date": "2015-12-06",
+            "links": [
+              "https://es.wikipedia.org/wiki/Elecciones_parlamentarias_de_Venezuela_de_2015",
+              "http://www.cne.gob.ve/web/normativa_electoral/elecciones/2015/asamblea/index_principal.php"
+            ]
+          }
+        },
+        {
+          "id": "b",
+          "type": "event",
+          "label": "Asamblea nacional saliente instala Parlamento Comunal",
+          "metadata": {
+            "date": "2015-12-15",
+            "links": [
+              "https://www.bbc.com/mundo/noticias/2015/12/151216_venezuela_parlamento_comunal_claves_dp"
+            ]
+          }
+        },
+        {
+          "id": "c",
+          "type": "event",
+          "label": "Asamblea nacional saliente designa magistrados del TSJ",
+          "metadata": {
+            "date": "2015-12-23",
+            "links": [
+              "https://www.bbc.com/mundo/noticias/2015/12/151222_venezuela_tsj_magistrados_dp"
+            ]
+          }
+        },
+        {
+          "id": "d",
+          "type": "event",
+          "label": "Año nuevo",
+          "metadata": {
+            "date": "2016-01-01",
+            "comment": "Ejemplo de evento no relacionado"
+          }
+        }
+      ],
+      "edges": [
+        {
+          "source": "2015",
+          "target": "time-root",
+          "relation": "time_belongs_to"
+        },
+        {
+          "source": "2016",
+          "target": "time-root",
+          "relation": "time_belongs_to"
+        },
+        {
+          "source": "2015-12",
+          "target": "2015",
+          "relation": "time_belongs_to"
+        },
+        {
+          "source": "2015-12-06",
+          "target": "2015-12",
+          "relation": "time_belongs_to"
+        },
+        {
+          "source": "2015-12-06",
+          "target": "2015-12-15",
+          "relation": "time_next_day"
+        },
+        {
+          "source": "2015-12-15",
+          "target": "2015-12",
+          "relation": "time_belongs_to"
+        },
+        {
+          "source": "2015-12-15",
+          "target": "2015-12-23",
+          "relation": "time_next_day"
+        },
+        {
+          "source": "2015-12-23",
+          "target": "2015-12",
+          "relation": "time_belongs_to"
+        },
+        {
+          "source": "2015-12-23",
+          "target": "2016-01-01",
+          "relation": "time_next_day"
+        },
+        {
+          "source": "2016-01",
+          "target": "2016",
+          "relation": "time_belongs_to"
+        },
+        {
+          "source": "2016-01-01",
+          "target": "2016-01",
+          "relation": "time_belongs_to"
+        },
+        {
+          "source": "a",
+          "target": "2015-12-06",
+          "relation": "happened_on"
+        },
+        {
+          "source": "b",
+          "target": "2015-12-15",
+          "relation": "happened_on"
+        },
+        {
+          "source": "c",
+          "target": "2015-12-23",
+          "relation": "happened_on"
+        },
+        {
+          "source": "d",
+          "target": "2016-01-01",
+          "relation": "happened_on"
+        }
+      ]
+    }
+  ]
+}
