@@ -143,7 +143,7 @@ mejore la calidad del impacto obtenido.
 ### Futuro
 
 * Permitir la asignación directa de recursos a los beneficiarios
-  finales en un sistema de intercambio digital. Véase *[Building Blocks]*
+  finales en un sistema de intercambio digital. Véase [Building Blocks]
 
 ## Diagrama
 
