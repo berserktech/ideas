@@ -24,7 +24,7 @@ las personas que los necesitan.
 
 En otros casos, algunas personas que se encuentran en condiciones
 delicadas de salud, necesitando de tratamientos y/o intervenciones
-quirúrgicas de mayor costo, y que en muchos de estos mismos casos no
+quirúrgicas de mayor costo, los cuales en muchos casos no
 se pueden atender dentro del país debido al deterioro de los servicios
 médicos, han acudido a plataformas de _CrowdFunding_, con la esperanza
 de reunir recursos económicos que les permitan viajar al exterior para
