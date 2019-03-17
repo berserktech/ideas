@@ -81,7 +81,7 @@ este proyecto pueda atender casos fuera del territorio venezolano.
 
 ## Objetivo general
 
-Implementar una plataforma concentradora de apoyo para iniciativas de
+Implementar una plataforma que reuna el apoyo para iniciativas de
 caracter humanitario y social, que amplifique la visibilidad de las
 necesidades, ofrezca confianza y conveniencia a los colaboradores y
 mejore la calidad del impacto obtenido.
