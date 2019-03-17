@@ -12,7 +12,7 @@ A partir del deterioro constante de las condiciones de vida de los
 habitantes de Venezuela en los últimos años, muchas personas, ante la
 imposibilidad de cubrir sus necesidades
 básicas por medios propios, han comenzado a acudir ante fundaciones,
-asociaciones, ONGs, grupos religiosos, entre otros, para solicitar
+asociaciones, organizaciones no gubernamentales (ONGs), grupos religiosos, entre otros, para solicitar
 ayuda.
 
 Por otro lado, la inmensa diáspora de venezolanos en los últimos años
