@@ -57,7 +57,7 @@ actuales no generen los resultados esperados:
   - Obstáculos logísticos: la colocación contínua de obstáculos para el
     ingreso de ayuda en el país, tanto a través de canales financieros
     como a través de puertos y aduanas, afecta también la confianza a la
-    hora de brindar apoyo, debido a que existen pocas garantías de que
+    hora de brindar apoyo, debido a las pocas garantías que
     este apoyo llegue a sus beneficiarios finales.
 - Conveniencia: personas que aún ignorando los factores 
   anteriores desean colaborar, encuentran dificultades para hacerlo
