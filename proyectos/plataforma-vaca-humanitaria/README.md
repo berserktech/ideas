@@ -61,7 +61,7 @@ actuales no generen los resultados esperados:
     este apoyo llegue a sus beneficiarios finales.
 - Conveniencia: personas que aún ignorando los factores 
   anteriores desean colaborar, encuentran dificultades para hacerlo
-  debido a carencias de tiempo, complejidad de las plataformasxs
+  debido a carencias de tiempo, complejidad de las plataformas
   existentes o por falta de claridad sobre como colaborar.
 - Calidad del apoyo: en campañas de recolección de equipos y
   materiales, los mismos muchas veces son redundantes, no orientados a
