@@ -65,7 +65,7 @@ actuales no generen los resultados esperados:
   existentes o por falta de claridad sobre como colaborar.
 - Calidad del apoyo: en campañas de recolección de equipos y
   materiales, los mismos muchas veces son redundantes, no están orientados a
-  las necesidades reales, o sencillamente no de la calidad esperada.
+  las necesidades reales, o sencillamente no tienen la calidad esperada.
 - Iniciativas locales sin apoyo: existen iniciativas in situ, que
   aunque no puedan solucionar todos los problemas por sí solas, pueden
   afectar de manera positiva la vida de sus comunidades, fomentando la
