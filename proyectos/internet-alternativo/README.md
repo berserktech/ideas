@@ -66,8 +66,8 @@ Centro de redes ULA: <https://internethalloffame.org/inductees/ermanno-pietrosem
 
 ## Misc
 
--   SDR - Software Designed Radio
--   SDN - Software Designed Network
+-   SDR - Software Defined Radio
+-   SDN - Software Defined Network
 -   Privacy
 -   Seguridad
 
