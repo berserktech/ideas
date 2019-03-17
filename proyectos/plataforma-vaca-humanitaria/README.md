@@ -10,7 +10,7 @@ social que ayuden a paliar este tipo de situaciones en el lugar.
 
 A partir del deterioro constante de las condiciones de vida de los
 habitantes de Venezuela en los últimos años, muchas personas, ante la
-imposibilidad de obtener los elementos para cubrir sus necesidades más
+imposibilidad de cubrir sus necesidades
 básicas por medios propios, han comenzado a acudir ante fundaciones,
 asociaciones, ONGs, grupos religiosos, entre otros, para solicitar
 ayuda.
