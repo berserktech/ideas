@@ -20,21 +20,16 @@
 ## Pasos
 
 -   Análisis demográfico
-
     -   Elegir un área geográfica objetivo de arranque
-
         -   Topologia
-
             -   Densidad
             -   Inventario
             -   Enlaces
 
 -   Marketing / Misión / Visión
-
     -   Manifesto: Why/How/What
 
 -   Definicion de tecnologia
-
     -   Low Cost
     -   High density
     -   Solar/Battery powered
