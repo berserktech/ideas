@@ -18,21 +18,20 @@ Centro de redes ULA: <https://internethalloffame.org/inductees/ermanno-pietrosem
 -   Cercanía a enlaces de buena calidad
 -   Espectros no licenciados
 -   Tráfico que no comprometa a nodos de salida
--   -   Privacidad
+    -   Privacidad
 
 ## Pasos
 
 -   Análisis demográfico
--   -   Elegir un área geográfica objetivo de arranque
-    -   -   Topologia
-        -   -   Densidad
+    -   Elegir un área geográfica objetivo de arranque
+        -   Topologia
+            -   Densidad
             -   Inventario
             -   Enlaces
 -   Marketing / Misión / Visión
--   -   Manifesto: Why/How/What
--   Definicion de tecnologia  
-
--   -   Low Cost
+    -   Manifesto: Why/How/What
+-   Definicion de tecnologia
+    -   Low Cost
     -   High density
     -   Solar/Battery powered
     -   OSS/OSHW
