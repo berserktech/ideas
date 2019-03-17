@@ -51,7 +51,7 @@ actuales no generen los resultados esperados:
     reuniendo recursos para su propio beneficio y defraudando a los
     colaboradores.
   - Transparencia y retroalimentación: la falta de transparencia en
-    las actividades de organizaciones y/o individuales, así como
+    las actividades de organizaciones o individuos, así como
     la ausencia de evidencias del impacto del soporte que se brinda,
     hace que muchas personas dispuestas a colaborar se abstengan.
   - Obstáculos logísticos: la colocación contínua de obstáculos para el
