@@ -1,32 +1,21 @@
 ## Proyectos existentes / Antecedentes
 
-Guifi - <https://guifi.net/es>
-
-Ninux - <http://ninux.org/>
-
-Freifunk - <https://freifunk.net/>
-
-Centro de redes ULA: <https://internethalloffame.org/inductees/ermanno-pietrosemoli>
+-   Guifi - <https://guifi.net/es>
+-   Ninux - <http://ninux.org/>
+-   Freifunk - <https://freifunk.net/>
+-   Centro de redes ULA: <https://internethalloffame.org/inductees/ermanno-pietrosemoli>
 
 ## Objetivos / Motivaciones / Caracteristicas de la red
 
 -   Resiliencia
-
 -   Disaster Recovery
-
 -   Neutralidad de la Red
-
 -   Censorship Resistance
-
 -   Manejado por las comunidades
-
 -   Cercanía a enlaces de buena calidad
-
 -   Espectros no licenciados
-
 -   Tráfico que no comprometa a nodos de salida
-
-    -   Privacidad
+-   Privacidad
 
 ## Pasos
 
