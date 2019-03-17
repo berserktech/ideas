@@ -4,7 +4,7 @@ La intención de este proyecto es implementar una plataforma de
 concentración y amplificación de esfuerzos para canalizar ayuda a
 personas que no pueden cubrir por sus propios medios las necesidades
 más básicas para la vida, así como fomentar proyectos de caracter
-social que ayuden a paliar este tipo de situaciones in situ.
+social que ayuden a paliar este tipo de situaciones en el lugar.
 
 ## Motivación
 
