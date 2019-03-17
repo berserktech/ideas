@@ -122,7 +122,7 @@ mejore la calidad del impacto obtenido.
   para dar visibilidad a los *casos* y *organizaciones* presentes en
   la plataforma y atraer colaboradores
 * Implementar un *fondo* al que los *colaboradores* puedan suscribirse
-  para realizar donaciones en dinero, sea de manera periódica como de
+  para realizar donaciones en dinero, ya sean recurrentes o
   una sola vez, que permita canalizar recursos hacia las fundaciones
   para la compra de materiales y equipos para atender necesidades
   humanitarias.
