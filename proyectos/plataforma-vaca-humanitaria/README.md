@@ -10,10 +10,10 @@ social que ayuden a paliar este tipo de situaciones en el lugar.
 
 A partir del deterioro constante de las condiciones de vida de los
 habitantes de Venezuela en los últimos años, muchas personas, ante la
-imposibilidad de cubrir sus necesidades
-básicas por medios propios, han comenzado a acudir ante fundaciones,
-asociaciones, organizaciones no gubernamentales (ONGs), grupos religiosos, entre otros, para solicitar
-ayuda.
+imposibilidad de cubrir sus necesidades básicas por medios propios,
+han comenzado a acudir ante fundaciones, asociaciones, organizaciones
+no gubernamentales (ONGs), grupos religiosos, entre otros, para
+solicitar ayuda.
 
 Por otro lado, la inmensa diáspora de venezolanos en los últimos años
 ha comenzado a establecer en cierto grado comunidades y grupos en
@@ -92,16 +92,16 @@ mejore la calidad del impacto obtenido.
   visibilidad de las necesidades humanitarias.
 - Servir como concentrador de apoyo con un sistema completamente
   público y transparente de seguimiento del apoyo monetario en un
-  fondo o *pote* centralizado.
+  fondo centralizado de apoyo.
 - Ofrecer un sistema abierto de evaluación de casos, así como de
-  asignación de beneficios desde el *pote*.
+  asignación de beneficios desde el fondo de apoyo.
 - Establecer asociaciones estratégicas con organizaciones, ONGs y
   asociaciones civiles para la creación y documentación de casos en la
   plataforma, así como la canalización logística de las asignaciones
   de apoyo hasta sus beneficiarios finales.
 - Establecer asociaciones con entes públicos y privados que patrocinen
-  tanto la alimentación del fondo de apoyo, o *pote*, como la
-  operación y necesidades de la plataforma.
+  tanto el financiamiento del fondo de apoyo como la operación y
+  necesidades de la plataforma.
 - Explorar el uso de la tecnología para reducir los riesgos y eliminar
   intermediarios en la cadena de ayuda.
 
@@ -143,8 +143,7 @@ mejore la calidad del impacto obtenido.
 ### Futuro
 
 * Permitir la asignación directa de recursos a los beneficiarios
-  finales en un sistema de intercambio digital. Véase [Building
-  Blocks]
+  finales en un sistema de intercambio digital. Véase [*Building Blocks*]
 
 ## Diagrama
 
