@@ -92,7 +92,7 @@ mejore la calidad del impacto obtenido.
   visibilidad de las necesidades humanitarias.
 - Servir como concentrador de apoyo con un sistema completamente
   público y transparente de seguimiento del apoyo monetario en un
-  *pote* centralizado.
+  fondo o *pote* centralizado.
 - Ofrecer un sistema abierto de evaluación de casos, así como de
   asignación de beneficios desde el *pote*.
 - Establecer asociaciones estratégicas con organizaciones, ONGs y
