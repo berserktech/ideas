@@ -1,4 +1,4 @@
-# Plataforma Crowd de ayuda humanitaria
+# Plataforma pública de ayuda humanitaria
 
 La intención de este proyecto es implementar una plataforma de
 concentración y amplificación de esfuerzos para canalizar ayuda a
