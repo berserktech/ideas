@@ -47,7 +47,7 @@ actuales no generen los resultados esperados:
 - Confianza:
   - Fraudes: lamentablemente, personas sin escrúpulos han
     utilizado esta situación para esconderse detrás de iniciativas de
-    este tipo para obtener donacionese en línea y fuera de línea,
+    este tipo para obtener donaciones en línea y fuera de línea,
     reuniendo recursos para su propio beneficio y defraudando a los
     colaboradores.
   - Transparencia y retroalimentación: la falta de transparencia en
