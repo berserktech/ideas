@@ -143,7 +143,7 @@ mejore la calidad del impacto obtenido.
 ### Futuro
 
 * Permitir la asignación directa de recursos a los beneficiarios
-  finales en un sistema de intercambio digital. Véase [Building Blocks]
+  finales en un sistema de intercambio digital. Véase *[Building Blocks]*
 
 ## Diagrama
 
@@ -151,7 +151,12 @@ mejore la calidad del impacto obtenido.
 
 ## Referencias
 
-- [Help4Venezuela](https://github.com/dynarro/help4venezuela)
-- [Fluxx](https://www.fluxx.io/)
-- [Building Blocks](https://innovation.wfp.org/project/building-blocks/)
-- [Condorcet](https://es.wikipedia.org/wiki/M%C3%A9todo_de_Condorcet)
+- Un prototipo inicial en: [Help4Venezuela]
+- Plataforma de grants: [Fluxx]
+- Aplicación de blockchain para canalización de ayuda humanitaria: [Building Blocks]
+- Método de votación: [Condorcet]
+
+[Help4Venezuela]: https://github.com/dynarro/help4venezuela
+[Fluxx]: https://www.fluxx.io/
+[Building Blocks]: https://innovation.wfp.org/project/building-blocks/
+[Condorcet]: https://es.wikipedia.org/wiki/M%C3%A9todo_de_Condorcet
