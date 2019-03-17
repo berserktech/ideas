@@ -75,7 +75,7 @@ actuales no generen los resultados esperados:
 
 Mientras que todas estas situaciones parecen muy específicas a la
 situación actual de Venezuela, se pueden observar condiciones
-similares casi en cada uno de los casos en que existen situaciones de
+similares en muchos casos en los cuales existen situaciones de
 emergencia humanitaria en todo el mundo, por lo que no se descarta que
 este proyecto pueda atender casos fuera del territorio venezolano.
 
