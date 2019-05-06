@@ -103,9 +103,11 @@ Organizations dedicated to the aid of Venezuelan migrants (specially important b
 - [MeQuieroIr.com](https://www.mequieroir.com/preguntas/que-es/)
 - [Venezuelans and Immigrants Aid](http://www.vianyc.org/)
 - [Asociación de Venezolanos en Chile](http://www.asoven.cl/)
+- [Caritas Venezuela](http://caritasvenezuela.org/que-hacemos/movilidad-humana/)
 
 Organizations dedicated to humanitarian aid to Venezuelans (in Venezuela):
 - [Ayuda Humanitaria Venezuela](https://ayudahumanitariavenezuela.org/index.html)
+- [Caritas Venezuela](http://caritasvenezuela.org/que-hacemos/)
 
 Entertainment platforms dedicated to the population of the Venezuelan diaspora:
 
