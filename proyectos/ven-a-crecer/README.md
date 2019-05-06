@@ -42,6 +42,19 @@ You can read more about Code For Venezuela [here][C4V].
 
 ### About BerserkTech
 
+BerserkTech is a community of Venezuelans with high technical qualifications. They consider themselves `We’re relentless, we’re passionate and we do care, deeply, for each other`. They're brought together by three principles:
+
+- `A club, not a job`, through which they consider this community `a place in the internet where we get to be together, to share ideas and experiences and possibly to develop alliances for any kind of endeavors`.
+- `Battle Royale`, where they propose that membership requires effort, arguing that `membership has the inherent value of scarcity, but also that we have an excuse to remain active`.
+- Community as an advertisement platform, through which they argue that `The progress of each individual will make this list more valuable for the rest of us`.
+
+This community is primarily driven by their accounts on GitHub, Keybase and Telegram. You can read more about this community on the following links:
+
+- [BerserkTech's website][BSKT]
+- [BerserkTech's manifesto][BSKTM]
+- [BerserkTech's GitHub](https://github.com/berserktech)
+- [BerserkTech's public keybase team](https://keybase.io/team/berserktechopen)
+
 ### About MIT ReACT
 
 ### The Venezuelan Diaspora
@@ -92,9 +105,13 @@ Here is a list of external resources used or relevant to this project:
 - [MIT ReACT's website][ReACT]
 - [The UN Refugee Agency][UNHCR]
 - ["What is a Refugee?" by the UNHCR][UNHCRFacts]
+- [BerserkTech's website][BSKT]
+- [BerserkTech's manifesto][BSKTM]
 
 [GHP]: https://github.com/berserktech/ideas/projects/1
 [C4V]: https://www.codeforvenezuela.org/
 [ReACT]: https://react.mit.edu/
 [UNHCR]: https://www.unrefugees.org/
 [UNHCRFacts]: https://www.unrefugees.org/refugee-facts/what-is-a-refugee/
+[BSKT]: https://berserk.tech/
+[BSKTM]: https://medium.com/berserktech/manifesto-b9eda0fda1a7
