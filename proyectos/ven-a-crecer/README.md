@@ -111,7 +111,7 @@ Entertainment platforms dedicated to the population of the Venezuelan diaspora:
 - July, 2019: Have concrete documentation and communication channels with existing organizations working on aid to the Venezuelans refugee crisis.
 - Late 2019: Have a concise plan to bring MIT's ReACT program to Venezuelans.
 - Late 2019-Early 2020: MIT's ReACT program for Venezuelans should have started on a minimal control group.
-- Mid 2020: MIT's ReACT program for the Venezuelan Diaspora would start to reach refugees in Colombia, Chile, Mexico and Spain.
+- Mid 2020: MIT's ReACT program for the Venezuelan Diaspora would start to reach refugees in Chile, Colombia, Mexico and Spain.
 
 ## Ongoing Results
 
