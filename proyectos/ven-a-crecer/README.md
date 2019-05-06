@@ -93,7 +93,7 @@ Some statistics:
 
 Organizations dedicated to the aid of Venezuelan refugees:
 
-- [International Rescue Commitee](https://help.rescue.org/donate/help-venezuelans-now?ms=gs_ppc_venezuela_es_180829&initialms=gs_ppc_venezuela_es_180829&gclid=Cj0KCQjwtr_mBRDeARIsALfBZA7ZVKEPleALqn_T-KYslzAIGOfHWyPe97etLU12zYsocYATxF9EpvgaAjWzEALw_wcB).
+- [International Rescue Committee](https://help.rescue.org/donate/help-venezuelans-now?ms=gs_ppc_venezuela_es_180829&initialms=gs_ppc_venezuela_es_180829&gclid=Cj0KCQjwtr_mBRDeARIsALfBZA7ZVKEPleALqn_T-KYslzAIGOfHWyPe97etLU12zYsocYATxF9EpvgaAjWzEALw_wcB).
 - US Department of State, which published [United States Continues To Assist Venezuelans in Need](https://www.state.gov/r/pa/prs/ps/2018/09/286203.htm)
 - [VENMEX, apoyo humanitario a venezolanos en México](http://venemex.org/)
 - [ACNUR, ONU's Agency for Refugees](https://www.acnur.org/venezuela.html?query=venezuela)
@@ -101,7 +101,7 @@ Organizations dedicated to the aid of Venezuelan refugees:
 Organizations dedicated to the aid of Venezuelan migrants (specially important because of [Forced Displacement](#forced-displacement)):
 
 - [MeQuieroIr.com](https://www.mequieroir.com/preguntas/que-es/)
-- [Venezuelans and Inmigrants Aid](http://www.vianyc.org/)
+- [Venezuelans and Immigrants Aid](http://www.vianyc.org/)
 - [Asociación de Venezolanos en Chile](http://www.asoven.cl/)
 
 Entertainment platforms dedicated to the population of the Venezuelan diaspora:
