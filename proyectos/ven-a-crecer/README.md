@@ -10,7 +10,7 @@ The decades of ongoing human rights violations in Venezuela have made the life o
 - [Context](#the-problem)
     - [About Code For Venezuela](#about-code-for-venezuela)
     - [About BerserkTech](#about-berserktech)
-    - [About MIT ReACT](#about-mit-react)
+    - [About MIT's ReACT](#about-mits-react)
     - [The Venezuelan Diaspora](#the-venezuelan-diaspora)
     - [Existing Organizations](#existing-organizations)
     - [Ven a Crecer's Proposal](#ven-a-crecers-proposal)
@@ -55,15 +55,63 @@ This community is primarily driven by their accounts on GitHub, Keybase and Tele
 - [BerserkTech's GitHub](https://github.com/berserktech)
 - [BerserkTech's public keybase team](https://keybase.io/team/berserktechopen)
 
-### About MIT ReACT
+### About MIT's ReACT
+
+According to [their website][ReACT]:
+
+> The MIT ReACT Certificate Program is part of the MIT ReACT Hub, an initiative that was launched in May 2017 when the challenge of refugee education was presented at MIT SOLVE. Professor Admir Masic and now Vice Chancellor Ian Waitz championed the creation of a center at MIT to design and deploy new learning opportunities for displaced populations around the world. Driven by his own experience as a refugee, Prof. Masic has inspired a collection of related projects to come together as a community to address this growing crisis. Their initiative was quickly supported by the leadership of Hala Fadel, Thomas Ermacora, and Riccardo Sabatini. The MIT Enterprise Forum Pan-Arab Region is ReACT’s inaugural Seed Partner and serves as its logistics support.
+
+You can learn more about it here:
+
+- [MIT ReACT's website][ReACT]
+- [MIT ReACT's Frequently Asked Questions](https://react.mit.edu/react-programs/faqs/)
+- [MIT News: "MIT to spur global education hub for displaced populations and refugees"](http://news.mit.edu/2017/mit-spurs-global-refugee-action-hub-react-0516)
 
 ### The Venezuelan Diaspora
 
+As stated in Wikipedia:
+
+> Following the Bolivarian Revolution, many Venezuelans have sought residence in other countries. According to Newsweek, the "Bolivarian diaspora is a reversal of fortune on a massive scale" where the reversal is a comparison to when in the 20th century, "Venezuela was a haven for immigrants fleeing Old World repression and intolerance".[15] El Universal explains how the "Bolivarian diaspora" in Venezuela has been caused by the "deterioration of both the economy and the social fabric, rampant crime, uncertainty and lack of hope for a change in leadership in the near future".
+
+Sources:
+
+- [Venezuelan Diaspora article on Wikipedia](https://en.wikipedia.org/wiki/Venezuelan_diaspora).
+- [Bolivarian diaspora article on Wikipedia](https://en.wikipedia.org/wiki/Bolivarian_diaspora).
+
+The Venezuelan Diaspora is caused by the Venezuelan Crisis. You can read more about it here:
+
+- [Crisis in Venezuela article on Wikipedia](https://en.wikipedia.org/wiki/Crisis_in_Venezuela)
+- [Venezuelan protests (2014–present) article on Wikipedia](https://en.wikipedia.org/wiki/Venezuelan_protests_(2014%E2%80%93present))
+
+Some statistics:
+- `According to Iván de la Vega, the number of Venezuelans living abroad increased by over 2,000 percent from the mid-1990s to 2013 (from 50,000 to 1,200,000). The median emigrant age is 32.` (2015) [Wikipedia](https://en.wikipedia.org/wiki/Bolivarian_diaspora), [source](https://www.buzzfeed.com/karlazabludovsky/the-brain-drain-from-venezuela).
+- `The percentage of Venezuelans who said that they had family abroad increased from 10 percent in 2004 to nearly 30 percent in 2014.` (2015) [Wikipedia](https://en.wikipedia.org/wiki/Bolivarian_diaspora), [source](http://www.eluniversal.com/nacional-y-politica/140816/ten-percent-of-venezuelans-are-taking-steps-for-emigrating).
+- `A late-2017 survey by Consultores 21 found that over four million Venezuelans had left the country due to the Bolivarian Revolution, and 51 percent of young adults said that they wanted to emigrate.` (2018) [Wikipedia](https://en.wikipedia.org/wiki/Bolivarian_diaspora), [source](https://www.lapatilla.com/site/2018/01/19/gracias-a-las-malas-politicas-del-gobierno-bolivariano-mas-de-4-millones-de-venezolanos-se-han-ido-del-pais-encuesta/).
+- `In 2018, it was estimated that over one million Venezuelans had plans to emigrate.`  (2018) [Wikipedia](https://en.wikipedia.org/wiki/Bolivarian_diaspora), [source](https://www.washingtonpost.com/news/worldviews/wp/2018/04/04/angry-venezuelans-tell-maduro-theyd-rather-clean-americas-toilets-than-stay-in-their-country/)
+
 ### Existing Organizations
+
+Organizations dedicated to the aid of Venezuelan migrants:
+
+- [MeQuieroIr.com](https://www.mequieroir.com/preguntas/que-es/)
+
+Entertainment platforms dedicated to the population of the Venezuelan diaspora:
+
+- [SomosDiaspora.com](https://somosdiaspora.com/web/quienes-somos/)
 
 ### Ven a Crecer's Proposal
 
+"Ven a Crecer" is the codename for Code For Venezuela's effort to bring MIT's ReACT program to the Venezuelan Diaspora. Is mainly coordinated by BerserkTech team members.
+
 ## Roadmap
+
+"Ven a Crecer" is an ongoing effort. Here's a sketch of the roadmap:
+
+- May, 2019: Establish communications with the MIT.
+- July, 2019: Have concrete documentation and communication channels with existing organizations working on aid to the Venezuelans refugee crisis.
+- Late 2019: Have a concise plan to bring MIT's ReACT program to Venezuelans.
+- Late 2019-Early 2020: MIT's ReACT program for Venezuelans should have started on a minimal control group.
+- Mid 2020: MIT's ReACT program for the Venezuelan Diaspora would start to reach refugees in Colombia, Chile, Mexico and Spain.
 
 ## Ongoing Results
 
