@@ -93,12 +93,12 @@ Some statistics:
 
 Organizations dedicated to the aid of Venezuelan refugees:
 
-- [International Rescue Comitee](https://help.rescue.org/donate/help-venezuelans-now?ms=gs_ppc_venezuela_es_180829&initialms=gs_ppc_venezuela_es_180829&gclid=Cj0KCQjwtr_mBRDeARIsALfBZA7ZVKEPleALqn_T-KYslzAIGOfHWyPe97etLU12zYsocYATxF9EpvgaAjWzEALw_wcB).
+- [International Rescue Commitee](https://help.rescue.org/donate/help-venezuelans-now?ms=gs_ppc_venezuela_es_180829&initialms=gs_ppc_venezuela_es_180829&gclid=Cj0KCQjwtr_mBRDeARIsALfBZA7ZVKEPleALqn_T-KYslzAIGOfHWyPe97etLU12zYsocYATxF9EpvgaAjWzEALw_wcB).
 - US Department of State, which published [United States Continues To Assist Venezuelans in Need](https://www.state.gov/r/pa/prs/ps/2018/09/286203.htm)
 - [VENMEX, apoyo humanitario a venezolanos en México](http://venemex.org/)
 - [ACNUR, ONU's Agency for Refugees](https://www.acnur.org/venezuela.html?query=venezuela)
 
-Organizations dedicated to the aid of Venezuelan migrants:
+Organizations dedicated to the aid of Venezuelan migrants (specially important because of [Forced Displacement](#forced-displacement)):
 
 - [MeQuieroIr.com](https://www.mequieroir.com/preguntas/que-es/)
 - [Venezuelans and Inmigrants Aid](http://www.vianyc.org/)
@@ -152,6 +152,12 @@ According to [The UN Refugee Agency][UNHCR]:
 
 > The 1951 Geneva Convention is the main international instrument of refugee law. The Convention clearly spells out who a refugee is and the kind of legal protection, other assistance and social rights he or she should receive from the countries who have signed the document. The Convention also defines a refugee’s obligations to host governments and certain categories or people, such as war criminals, who do not qualify for refugee status. The Convention was limited to protecting mainly European refugees in the aftermath of World War II, but another document, the 1967 Protocol, expanded the scope of the Convention as the problem of displacement spread around the world.
 [Source][UNHCRFacts]
+
+### Forced Displacement
+
+According to Wikipedia:
+
+> Forced displacement or forced immigration is the coerced movement of a person or people away from their home or home region and it often connotes violent coercion. [...] In some cases the forced immigrant can also become a refugee, as that term has a specific legal definition. [...] Forced displacement has accompanied persecution, as well as war, throughout human history but has only become a topic of serious study and discussion relatively recently.
 
 ## External Resources
 
